@@ -5,7 +5,7 @@ import pandas as pd
 # Categorías
 categorias = [
     ['Niñez', 'Adolescencia', 'Adultez', 'Ancianidad'],  # Edad
-    ['Hombre', 'Mujer', 'No especificado'],  # Sexo
+    ['Hombre', 'Mujer', 'Sexo no especificado'],  # Sexo
     ['Sí embarazado', 'No embarazado'],  # Embarazo
     ['No tiene hijos', 'Tiene un hijo', 'Tiene mas de un hijo'],  # Hijos
     ['No ha cometido ningun crimen', 'Ha cometido Asesianto', 'Ha cometido Pedofilia', 'Ha cometido Terrorismo', 'Ha cometido Robo'],  # Crimen
