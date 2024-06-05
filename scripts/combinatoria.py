@@ -25,6 +25,9 @@ combinaciones_filtradas = [
        not (combinacion[0] in ['Niñez', 'Adolescencia'] and combinacion[4] == 'Ha cometido Pedofilia')
 ]
 
+# Número total de combinaciones filtradas
+total_combinaciones_filtradas = len(combinaciones_filtradas)
+
 # Contamos las frecuencias de cada categoría en las combinaciones filtradas
 contador = {
     'Edad': Counter(),
@@ -45,11 +48,16 @@ for combinacion in combinaciones_filtradas:
     contador['Clase social'][combinacion[5]] += 1
     contador['Enfermedad'][combinacion[6]] += 1
 
-# Convertimos los contadores a un DataFrame para facilitar la visualización
+# Convertimos los contadores a un DataFrame para facilitar la visualización y calculamos el porcentaje
 df_contador = pd.DataFrame(contador)
+df_contador = df_contador.apply(lambda x: (x / total_combinaciones_filtradas) * 100)
 
-# Mostramos el DataFrame
+# Mostramos el DataFrame en porcentaje
 print(df_contador)
+'''
+# Imprimimos las combinaciones filtradas
+for combinacion in combinaciones_filtradas:
+    print(combinacion)
+'''
 
-
-print('Numero total de combinaciones = ', len(combinaciones_filtradas))
+print('Numero total de combinaciones = ', total_combinaciones_filtradas)
