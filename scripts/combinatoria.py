@@ -2,6 +2,8 @@ from itertools import product
 from collections import Counter
 import pandas as pd
 
+ruta_salida = "data/combinatoria.txt"
+
 # Categorías
 categorias = [
     ['Niñez', 'Adolescencia', 'Adultez', 'Ancianidad'],  # Edad
@@ -10,7 +12,9 @@ categorias = [
     ['No tiene hijos', 'Tiene un hijo', 'Tiene mas de un hijo'],  # Hijos
     ['No ha cometido ningun crimen', 'Ha cometido Asesianto', 'Ha cometido Pedofilia', 'Ha cometido Terrorismo', 'Ha cometido Robo'],  # Crimen
     ['Clase social Baja', 'Clase social Media', 'Clase social Alta'],  # clase social
-    ['No tiene ninguna enfermedad', 'Tiene una enfermedad degenerativa', 'Tiene una enfermedad mental', 'Tiene una enfermedad cronica', 'Tiene una enfermedad terminal']  # enfermedad
+    ['No tiene ninguna enfermedad', 'Tiene una enfermedad degenerativa', 'Tiene una enfermedad mental', 'Tiene una enfermedad cronica', 'Tiene una enfermedad terminal'],  # enfermedad
+    ['No consume drogas','Consume alcohol','Consume tabaco','Consume marihuana','Consume cafeína','Consumo cocaína']#consumo drogas
+
 ]
 
 # Generamos todas las combinaciones posibles
@@ -22,7 +26,8 @@ combinaciones_filtradas = [
     if not (combinacion[2] == 'Sí embarazado' and (combinacion[0] != 'Adultez' or combinacion[1] != 'Mujer')) and  # solo mujeres pueden estar embarazadas
        not (combinacion[0] in ['Niñez', 'Adolescencia'] and combinacion[3] != 'No tiene hijos') and  # adultos y ancianos tienen hijos
        not (combinacion[0] == 'Niñez' and combinacion[4] != 'No ha cometido ningun crimen') and  # Infantes no pueden cometer crimen
-       not (combinacion[0] in ['Niñez', 'Adolescencia'] and combinacion[4] == 'Ha cometido Pedofilia')
+       not (combinacion[0] in ['Niñez', 'Adolescencia'] and combinacion[4] == 'Ha cometido Pedofilia') and 
+       not (combinacion[0] == 'Niñez' and combinacion[7] == 'No consume drogas')
 ]
 
 # Número total de combinaciones filtradas
@@ -52,12 +57,29 @@ for combinacion in combinaciones_filtradas:
 df_contador = pd.DataFrame(contador)
 df_contador = df_contador.apply(lambda x: (x / total_combinaciones_filtradas) * 100)
 
-# Mostramos el DataFrame en porcentaje
-print(df_contador)
-'''
-# Imprimimos las combinaciones filtradas
-for combinacion in combinaciones_filtradas:
-    print(combinacion)
-'''
 
-print('Numero total de combinaciones = ', total_combinaciones_filtradas)
+# Abrir el archivo en modo de apertura (append)
+with open(ruta_salida, "w") as archivo:
+    # Redirigir la salida estándar al archivo
+    import sys
+    sys.stdout = archivo
+    
+    # Imprimir el DataFrame
+    print(df_contador)
+
+    # Mostramos el DataFrame en porcentaje
+    print(df_contador)
+    
+    # Imprimimos las combinaciones filtradas
+    for combinacion in combinaciones_filtradas:
+        print(combinacion)
+    
+
+    print('Numero total de combinaciones = ', total_combinaciones_filtradas)
+
+    # Restaurar la salida estándar
+    sys.stdout = sys.__stdout__
+
+# Mensaje de confirmación
+print(f"Salida guardada en: {ruta_salida}")
+
