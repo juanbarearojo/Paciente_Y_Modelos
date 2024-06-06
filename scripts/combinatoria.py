@@ -6,14 +6,14 @@ ruta_salida = "data/combinatoria.txt"
 
 # Categorías
 categorias = [
-    ['Niñez', 'Adolescencia', 'Adultez', 'Ancianidad'],  # Edad
-    ['Hombre', 'Mujer', 'Sexo no especificado'],  # Sexo
-    ['Sí embarazado', 'No embarazado'],  # Embarazo
+    ['Niñez','Adultez', 'Ancianidad'],  # Edad
+    ['Hombre', 'Mujer'], #'Sexo no especificado'],  # Sexo
     ['No tiene hijos', 'Tiene un hijo', 'Tiene mas de un hijo'],  # Hijos
     ['No ha cometido ningun crimen', 'Ha cometido Asesianto', 'Ha cometido Pedofilia', 'Ha cometido Terrorismo', 'Ha cometido Robo'],  # Crimen
     ['Clase social Baja', 'Clase social Media', 'Clase social Alta'],  # clase social
     ['No tiene ninguna enfermedad', 'Tiene una enfermedad degenerativa', 'Tiene una enfermedad mental', 'Tiene una enfermedad cronica', 'Tiene una enfermedad terminal'],  # enfermedad
     ['No consume drogas','Consume alcohol','Consume tabaco','Consume marihuana','Consume cafeína','Consumo cocaína']#consumo drogas
+    #['Sí embarazado', 'No embarazado'],  # Embarazo
 
 ]
 
@@ -23,11 +23,11 @@ combinaciones = list(product(*categorias))
 # Filtramos las combinaciones según las condiciones dadas
 combinaciones_filtradas = [
     combinacion for combinacion in combinaciones
-    if not (combinacion[2] == 'Sí embarazado' and (combinacion[0] != 'Adultez' or combinacion[1] != 'Mujer')) and  # solo mujeres pueden estar embarazadas
-       not (combinacion[0] in ['Niñez', 'Adolescencia'] and combinacion[3] != 'No tiene hijos') and  # adultos y ancianos tienen hijos
-       not (combinacion[0] == 'Niñez' and combinacion[4] != 'No ha cometido ningun crimen') and  # Infantes no pueden cometer crimen
-       not (combinacion[0] in ['Niñez', 'Adolescencia'] and combinacion[4] == 'Ha cometido Pedofilia') and 
-       not (combinacion[0] == 'Niñez' and combinacion[7] == 'No consume drogas')
+    if #not (combinacion[2] == 'Sí embarazado' and (combinacion[0] != 'Adultez' or combinacion[1] != 'Mujer')) and  # solo mujeres pueden estar embarazadas
+       not (combinacion[0] in ['Niñez'] and combinacion[2] != 'No tiene hijos') and  # adultos y ancianos tienen hijos
+       not (combinacion[0] == 'Niñez' and combinacion[3] != 'No ha cometido ningun crimen') and  # Infantes no pueden cometer crimen
+       not (combinacion[0] in ['Niñez'] and combinacion[3] == 'Ha cometido Pedofilia') and 
+       not (combinacion[0] == 'Niñez' and combinacion[6] == 'No consume drogas')
 ]
 
 # Número total de combinaciones filtradas
