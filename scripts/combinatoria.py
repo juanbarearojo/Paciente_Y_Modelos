@@ -1,85 +1,107 @@
 from itertools import product
 from collections import Counter
 import pandas as pd
+import random
 
 ruta_salida = "data/combinatoria.txt"
 
 # Categorías
 categorias = [
-    ['Niñez','Adultez', 'Ancianidad'],  # Edad
-    ['Hombre', 'Mujer'], #'Sexo no especificado'],  # Sexo
-    ['No tiene hijos', 'Tiene un hijo', 'Tiene mas de un hijo'],  # Hijos
-    ['No ha cometido ningun crimen', 'Ha cometido Asesianto', 'Ha cometido Pedofilia', 'Ha cometido Terrorismo', 'Ha cometido Robo'],  # Crimen
-    ['Clase social Baja', 'Clase social Media', 'Clase social Alta'],  # clase social
-    ['No tiene ninguna enfermedad', 'Tiene una enfermedad degenerativa', 'Tiene una enfermedad mental', 'Tiene una enfermedad cronica', 'Tiene una enfermedad terminal'],  # enfermedad
-    ['No consume drogas','Consume alcohol','Consume tabaco','Consume marihuana','Consume cafeína','Consumo cocaína']#consumo drogas
-    #['Sí embarazado', 'No embarazado'],  # Embarazo
-
+    ['Niñez', 'Adultez', 'Ancianidad'],  # Edad
+    ['Hombre', 'Mujer'],  # Sexo
+    ['No ha cometido ningún crimen', 'Ha cometido Asesinato', 'Ha cometido Abuso sexual', 'Ha cometido Terrorismo', 'Ha cometido Robo'],  # Crimen
+    ['Clase social baja', 'Clase social media', 'Clase social alta'],  # Clase social
+    ['No tiene ninguna enfermedad', 'Tiene una enfermedad degenerativa', 'Tiene una enfermedad mental', 'Tiene una enfermedad crónica', 'Tiene una enfermedad terminal'],  # Enfermedad
+    ['No consume drogas', 'Consume alcohol', 'Consume tabaco', 'Consume marihuana', 'Consume cafeína', 'Consume cocaína'],  # Consumo drogas
+    ['Analfabeto', 'Primaria', 'Secundaria', 'Grado', 'Doctorado'],  # Educación
+    ['Cristianismo', 'Budismo', 'Islam', 'Judaísmo', 'Hinduismo', 'Ateísmo']  # Religión
 ]
+
+# Estado familiar solo para Niñez
+estado_familiar_ninez = ['Dos padres', 'Huérfano', 'Un padre']
 
 # Generamos todas las combinaciones posibles
 combinaciones = list(product(*categorias))
 
+# Añadimos combinaciones de estado familiar para niños
+combinaciones_ext = []
+for comb in combinaciones:
+    if comb[0] == 'Niñez':
+        for estado_familiar in estado_familiar_ninez:
+            combinaciones_ext.append(comb + (estado_familiar,))
+    else:
+        combinaciones_ext.append(comb + ( '',))
+
 # Filtramos las combinaciones según las condiciones dadas
 combinaciones_filtradas = [
-    combinacion for combinacion in combinaciones
-    if #not (combinacion[2] == 'Sí embarazado' and (combinacion[0] != 'Adultez' or combinacion[1] != 'Mujer')) and  # solo mujeres pueden estar embarazadas
-       not (combinacion[0] in ['Niñez'] and combinacion[2] != 'No tiene hijos') and  # adultos y ancianos tienen hijos
-       not (combinacion[0] == 'Niñez' and combinacion[3] != 'No ha cometido ningun crimen') and  # Infantes no pueden cometer crimen
-       not (combinacion[0] in ['Niñez'] and combinacion[3] == 'Ha cometido Pedofilia') and 
-       not (combinacion[0] == 'Niñez' and combinacion[6] == 'No consume drogas')
+    combinacion for combinacion in combinaciones_ext
+    if not (combinacion[0] == 'Niñez' and combinacion[6] not in ['Analfabeto', 'Primaria'])  # Infantes no pueden tener educación avanzada
 ]
 
-# Número total de combinaciones filtradas
-total_combinaciones_filtradas = len(combinaciones_filtradas)
+# Aseguramos una selección equitativa de pacientes
+num_pacientes_por_grupo = 250 // len(categorias[0])
+pacientes_seleccionados = []
 
-# Contamos las frecuencias de cada categoría en las combinaciones filtradas
-contador = {
+for edad in categorias[0]:
+    combinaciones_por_edad = [comb for comb in combinaciones_filtradas if comb[0] == edad]
+    num_seleccionados = min(num_pacientes_por_grupo, len(combinaciones_por_edad))
+    pacientes_seleccionados.extend(random.sample(combinaciones_por_edad, num_seleccionados))
+
+# Ajustar el número de pacientes si no alcanza a 250 debido a restricciones
+while len(pacientes_seleccionados) < 250:
+    faltantes = 250 - len(pacientes_seleccionados)
+    adicionales = random.sample(combinaciones_filtradas, faltantes)
+    pacientes_seleccionados.extend(adicionales)
+
+# Convertir las combinaciones seleccionadas en una lista de diccionarios
+pacientes = [
+    {
+        "Edad": comb[0],
+        "Sexo": comb[1],
+        "Crimen": comb[2],
+        "Clase Social": comb[3],
+        "Enfermedad": comb[4],
+        "Consumo Drogas": comb[5],
+        "Educación": comb[6],
+        "Religión": comb[7]
+    }
+    for comb in pacientes_seleccionados
+]
+
+# Convertir a DataFrame para visualizar
+df_pacientes = pd.DataFrame(pacientes)
+
+# Contar las frecuencias de cada categoría en las combinaciones seleccionadas
+contador_seleccionados = {
     'Edad': Counter(),
     'Sexo': Counter(),
-    'Embarazo': Counter(),
-    'Hijos': Counter(),
     'Crimen': Counter(),
     'Clase social': Counter(),
-    'Enfermedad': Counter()
+    'Enfermedad': Counter(),
+    'Consumo drogas': Counter(),
+    'Educación': Counter(),
+    'Religión': Counter(),
 }
 
-for combinacion in combinaciones_filtradas:
-    contador['Edad'][combinacion[0]] += 1
-    contador['Sexo'][combinacion[1]] += 1
-    contador['Embarazo'][combinacion[2]] += 1
-    contador['Hijos'][combinacion[3]] += 1
-    contador['Crimen'][combinacion[4]] += 1
-    contador['Clase social'][combinacion[5]] += 1
-    contador['Enfermedad'][combinacion[6]] += 1
+for paciente in pacientes:
+    contador_seleccionados['Edad'][paciente['Edad']] += 1
+    contador_seleccionados['Sexo'][paciente['Sexo']] += 1
+    contador_seleccionados['Crimen'][paciente['Crimen']] += 1
+    contador_seleccionados['Clase social'][paciente['Clase Social']] += 1
+    contador_seleccionados['Enfermedad'][paciente['Enfermedad']] += 1
+    contador_seleccionados['Consumo drogas'][paciente['Consumo Drogas']] += 1
+    contador_seleccionados['Educación'][paciente['Educación']] += 1
+    contador_seleccionados['Religión'][paciente['Religión']] += 1
 
-# Convertimos los contadores a un DataFrame para facilitar la visualización y calculamos el porcentaje
-df_contador = pd.DataFrame(contador)
-df_contador = df_contador.apply(lambda x: (x / total_combinaciones_filtradas) * 100)
+# Convertimos los contadores a un DataFrame para facilitar la visualización
+df_contador_seleccionados = pd.DataFrame(contador_seleccionados).fillna(0)
 
-
-# Abrir el archivo en modo de apertura (append)
+# Guardar resultados en un archivo
 with open(ruta_salida, "w") as archivo:
-    # Redirigir la salida estándar al archivo
-    import sys
-    sys.stdout = archivo
-    
-    # Imprimir el DataFrame
-    print(df_contador)
-
-    # Mostramos el DataFrame en porcentaje
-    print(df_contador)
-    
-    # Imprimimos las combinaciones filtradas
-    for combinacion in combinaciones_filtradas:
-        print(combinacion)
-    
-
-    print('Numero total de combinaciones = ', total_combinaciones_filtradas)
-
-    # Restaurar la salida estándar
-    sys.stdout = sys.__stdout__
+    archivo.write("Distribución de los 250 pacientes seleccionados:\n")
+    archivo.write(df_contador_seleccionados.to_string())
+    archivo.write("\n\nPacientes Seleccionados:\n")
+    df_pacientes.to_csv(archivo, index=False)
 
 # Mensaje de confirmación
 print(f"Salida guardada en: {ruta_salida}")
-
