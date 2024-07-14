@@ -3,18 +3,20 @@ from collections import Counter
 import pandas as pd
 import random
 
-ruta_salida = "data/combinatoria.txt"
+ruta_salida1 = "data/combinatoria_con_distribucion.txt"
+ruta_salida2 = "data/combinatoria_tuplas.txt"
+
 
 # Categorías
 categorias = [
-    ['Niñez', 'Adultez', 'Ancianidad'],  # Edad
+    ['Infancia', 'Adultez', 'Ancianidad'],  # Edad
     ['Hombre', 'Mujer'],  # Sexo
-    ['No ha cometido ningún crimen', 'Ha cometido Asesinato', 'Ha cometido Abuso sexual', 'Ha cometido Terrorismo', 'Ha cometido Robo'],  # Crimen
+    ['No ha cometido ningun crimen', 'Ha cometido Asesinato', 'Ha cometido Abuso sexual', 'Ha cometido Terrorismo', 'Ha cometido Robo'],  # Crimen
     ['Clase social baja', 'Clase social media', 'Clase social alta'],  # Clase social
-    ['No tiene ninguna enfermedad', 'Tiene una enfermedad degenerativa', 'Tiene una enfermedad mental', 'Tiene una enfermedad crónica', 'Tiene una enfermedad terminal'],  # Enfermedad
-    ['No consume drogas', 'Consume alcohol', 'Consume tabaco', 'Consume marihuana', 'Consume cafeína', 'Consume cocaína'],  # Consumo drogas
+    ['No tiene ninguna enfermedad', 'Tiene una enfermedad degenerativa', 'Tiene una enfermedad mental', 'Tiene una enfermedad cronica', 'Tiene una enfermedad terminal'],  # Enfermedad
+    ['No consume drogas', 'Consume alcohol', 'Consume tabaco', 'Consume marihuana', 'Consume cafeina', 'Consume cocaina'],  # Consumo drogas
     ['Analfabeto', 'Primaria', 'Secundaria', 'Grado', 'Doctorado'],  # Educación
-    ['Cristianismo', 'Budismo', 'Islam', 'Judaísmo', 'Hinduismo', 'Ateísmo']  # Religión
+    ['Cristianismo', 'Budismo', 'Islam', 'Judaismo', 'Hinduismo', 'Ateismo']  # Religión
 ]
 
 # Estado familiar solo para Niñez
@@ -97,11 +99,16 @@ for paciente in pacientes:
 df_contador_seleccionados = pd.DataFrame(contador_seleccionados).fillna(0)
 
 # Guardar resultados en un archivo
-with open(ruta_salida, "w") as archivo:
+with open(ruta_salida1, "w") as archivo:
     archivo.write("Distribución de los 250 pacientes seleccionados:\n")
     archivo.write(df_contador_seleccionados.to_string())
     archivo.write("\n\nPacientes Seleccionados:\n")
     df_pacientes.to_csv(archivo, index=False)
 
+with open(ruta_salida2, "w") as archivo2:
+    df_pacientes.to_csv(archivo2, index=False)
+
 # Mensaje de confirmación
-print(f"Salida guardada en: {ruta_salida}")
+print(f"Salidas guardadas en: {ruta_salida1} y {ruta_salida2}")
+
+

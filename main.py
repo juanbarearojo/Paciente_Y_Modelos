@@ -25,7 +25,7 @@ class OpenAIBatchProcessor:
 
         # Monitor the batch job status
         while batch_job.status not in ["completed", "failed", "cancelled"]:
-            time.sleep(3)  # Wait for 3 seconds before checking the status again
+            time.sleep(120)  # Wait for 3 seconds before checking the status again
             print(f"Batch job status: {batch_job.status}...trying again in 3 seconds...")
             batch_job = self.client.batches.retrieve(batch_job.id)
 
