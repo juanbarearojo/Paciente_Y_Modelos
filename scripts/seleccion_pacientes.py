@@ -25,11 +25,7 @@ combinaciones = list(product(*categorias))
 # Añadimos combinaciones de estado familiar para niños
 combinaciones_ext = []
 for comb in combinaciones:
-    if comb[0] == 'Niñez':
-        for estado_familiar in estado_familiar_ninez:
-            combinaciones_ext.append(comb + (estado_familiar,))
-    else:
-        combinaciones_ext.append(comb + ('',))
+    combinaciones_ext.append(comb + ('',))
 
 # Filtramos las combinaciones según las condiciones dadas
 combinaciones_filtradas = [
@@ -64,7 +60,6 @@ pacientes = [
         "Consumo Drogas": comb[5],
         "Educación": comb[6],
         "Religión": comb[7],
-        "Estado Familiar": comb[8]
     }
     for idx, comb in enumerate(pacientes_seleccionados)
 ]
