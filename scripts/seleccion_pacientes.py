@@ -92,12 +92,13 @@ for paciente in pacientes:
 # Convertimos los contadores a un DataFrame para facilitar la visualización
 df_contador_seleccionados = pd.DataFrame(contador_seleccionados).fillna(0)
 
-# Guardar resultados en un archivo
+# Guardar distribucion en un archivo
 with open(ruta_salida1, "w") as archivo:
     archivo.write("Distribución de los 250 pacientes seleccionados:\n")
     archivo.write(df_contador_seleccionados.to_string())
-    archivo.write("\n\nPacientes Seleccionados:\n")
 
+
+# Guardar pacientes en un archivo
 with open(ruta_salida2, "w") as archivo2:
     df_pacientes.to_csv(archivo2, index=False)
 

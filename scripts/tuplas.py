@@ -3,7 +3,7 @@ import json
 import os
 
 # Ruta de los archivos
-archivo_entrada = 'data/combinatoria_tuplas.txt'  # Reemplazar con el nombre de tu archivo de datos
+archivo_entrada = 'data/pacientes/.csv'  # Reemplazar con el nombre de tu archivo de datos
 archivo_salida_prompts = 'data/prompt_usado.txt'
 directorio_salida = 'data/lotes_gpt_jsonl/input/'  # Asegúrate de que este directorio exista
 
