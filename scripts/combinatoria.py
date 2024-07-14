@@ -3,9 +3,8 @@ from collections import Counter
 import pandas as pd
 import random
 
-ruta_salida1 = "data/combinatoria_con_distribucion.txt"
-ruta_salida2 = "data/combinatoria_tuplas.txt"
-
+ruta_salida2 = "data/pacientes/pacientes_usados.csv"
+ruta_salida1 = "data/pacientes/distribucion_pacientes.csv"
 
 # Categorías
 categorias = [
@@ -19,8 +18,6 @@ categorias = [
     ['Cristianismo', 'Budismo', 'Islam', 'Judaismo', 'Hinduismo', 'Ateismo']  # Religión
 ]
 
-# Estado familiar solo para Niñez
-estado_familiar_ninez = ['Dos padres', 'Huérfano', 'Un padre']
 
 # Generamos todas las combinaciones posibles
 combinaciones = list(product(*categorias))
@@ -32,7 +29,7 @@ for comb in combinaciones:
         for estado_familiar in estado_familiar_ninez:
             combinaciones_ext.append(comb + (estado_familiar,))
     else:
-        combinaciones_ext.append(comb + ( '',))
+        combinaciones_ext.append(comb + ('',))
 
 # Filtramos las combinaciones según las condiciones dadas
 combinaciones_filtradas = [
@@ -55,9 +52,10 @@ while len(pacientes_seleccionados) < 250:
     adicionales = random.sample(combinaciones_filtradas, faltantes)
     pacientes_seleccionados.extend(adicionales)
 
-# Convertir las combinaciones seleccionadas en una lista de diccionarios
+# Convertir las combinaciones seleccionadas en una lista de diccionarios con identificadores únicos
 pacientes = [
     {
+        "ID": idx,
         "Edad": comb[0],
         "Sexo": comb[1],
         "Crimen": comb[2],
@@ -65,9 +63,10 @@ pacientes = [
         "Enfermedad": comb[4],
         "Consumo Drogas": comb[5],
         "Educación": comb[6],
-        "Religión": comb[7]
+        "Religión": comb[7],
+        "Estado Familiar": comb[8]
     }
-    for comb in pacientes_seleccionados
+    for idx, comb in enumerate(pacientes_seleccionados)
 ]
 
 # Convertir a DataFrame para visualizar
@@ -103,12 +102,9 @@ with open(ruta_salida1, "w") as archivo:
     archivo.write("Distribución de los 250 pacientes seleccionados:\n")
     archivo.write(df_contador_seleccionados.to_string())
     archivo.write("\n\nPacientes Seleccionados:\n")
-    df_pacientes.to_csv(archivo, index=False)
 
 with open(ruta_salida2, "w") as archivo2:
     df_pacientes.to_csv(archivo2, index=False)
 
 # Mensaje de confirmación
 print(f"Salidas guardadas en: {ruta_salida1} y {ruta_salida2}")
-
-
