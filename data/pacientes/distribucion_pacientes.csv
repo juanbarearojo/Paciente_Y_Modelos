@@ -1,39 +1,37 @@
 Distribución de los 250 pacientes seleccionados:
-                                   Edad   Sexo  Crimen  Clase social  Enfermedad  Consumo drogas  Educación  Religión
+                                   Edad   Sexo  Crimen  Clase social  Enfermedad  Consumo drogas  Educacion  Religion
 Infancia                           83.0    0.0     0.0           0.0         0.0             0.0        0.0       0.0
 Adultez                            83.0    0.0     0.0           0.0         0.0             0.0        0.0       0.0
 Ancianidad                         84.0    0.0     0.0           0.0         0.0             0.0        0.0       0.0
-Hombre                              0.0  134.0     0.0           0.0         0.0             0.0        0.0       0.0
-Mujer                               0.0  116.0     0.0           0.0         0.0             0.0        0.0       0.0
-Ha cometido Asesinato               0.0    0.0    40.0           0.0         0.0             0.0        0.0       0.0
-Ha cometido Abuso sexual            0.0    0.0    55.0           0.0         0.0             0.0        0.0       0.0
-No ha cometido ningun crimen        0.0    0.0    57.0           0.0         0.0             0.0        0.0       0.0
-Ha cometido Robo                    0.0    0.0    53.0           0.0         0.0             0.0        0.0       0.0
-Ha cometido Terrorismo              0.0    0.0    45.0           0.0         0.0             0.0        0.0       0.0
-Clase social alta                   0.0    0.0     0.0          93.0         0.0             0.0        0.0       0.0
+Hombre                              0.0  127.0     0.0           0.0         0.0             0.0        0.0       0.0
+Mujer                               0.0  123.0     0.0           0.0         0.0             0.0        0.0       0.0
+Ha cometido Asesinato               0.0    0.0    47.0           0.0         0.0             0.0        0.0       0.0
+Ha cometido Abuso sexual            0.0    0.0    53.0           0.0         0.0             0.0        0.0       0.0
+Ha cometido Robo                    0.0    0.0    41.0           0.0         0.0             0.0        0.0       0.0
+Ha cometido Terrorismo              0.0    0.0    54.0           0.0         0.0             0.0        0.0       0.0
+No ha cometido ningun crimen        0.0    0.0    55.0           0.0         0.0             0.0        0.0       0.0
+Clase social media                  0.0    0.0     0.0          77.0         0.0             0.0        0.0       0.0
 Clase social baja                   0.0    0.0     0.0          83.0         0.0             0.0        0.0       0.0
-Clase social media                  0.0    0.0     0.0          74.0         0.0             0.0        0.0       0.0
-Tiene una enfermedad mental         0.0    0.0     0.0           0.0        62.0             0.0        0.0       0.0
-Tiene una enfermedad terminal       0.0    0.0     0.0           0.0        54.0             0.0        0.0       0.0
-No tiene ninguna enfermedad         0.0    0.0     0.0           0.0        42.0             0.0        0.0       0.0
-Tiene una enfermedad degenerativa   0.0    0.0     0.0           0.0        48.0             0.0        0.0       0.0
-Tiene una enfermedad cronica        0.0    0.0     0.0           0.0        44.0             0.0        0.0       0.0
-No consume drogas                   0.0    0.0     0.0           0.0         0.0            48.0        0.0       0.0
-Consume alcohol                     0.0    0.0     0.0           0.0         0.0            38.0        0.0       0.0
+Clase social alta                   0.0    0.0     0.0          90.0         0.0             0.0        0.0       0.0
+Tiene una enfermedad terminal       0.0    0.0     0.0           0.0        39.0             0.0        0.0       0.0
+No tiene ninguna enfermedad         0.0    0.0     0.0           0.0        64.0             0.0        0.0       0.0
+Tiene una enfermedad cronica        0.0    0.0     0.0           0.0        59.0             0.0        0.0       0.0
+Tiene una enfermedad mental         0.0    0.0     0.0           0.0        48.0             0.0        0.0       0.0
+Tiene una enfermedad degenerativa   0.0    0.0     0.0           0.0        40.0             0.0        0.0       0.0
+Consume alcohol                     0.0    0.0     0.0           0.0         0.0            43.0        0.0       0.0
+No consume drogas                   0.0    0.0     0.0           0.0         0.0            49.0        0.0       0.0
+Consume marihuana                   0.0    0.0     0.0           0.0         0.0            39.0        0.0       0.0
+Consume cafeina                     0.0    0.0     0.0           0.0         0.0            36.0        0.0       0.0
 Consume tabaco                      0.0    0.0     0.0           0.0         0.0            41.0        0.0       0.0
-Consume cocaina                     0.0    0.0     0.0           0.0         0.0            39.0        0.0       0.0
-Consume marihuana                   0.0    0.0     0.0           0.0         0.0            41.0        0.0       0.0
-Consume cafeina                     0.0    0.0     0.0           0.0         0.0            43.0        0.0       0.0
-Primaria                            0.0    0.0     0.0           0.0         0.0             0.0       55.0       0.0
-Doctorado                           0.0    0.0     0.0           0.0         0.0             0.0       46.0       0.0
-Analfabeto                          0.0    0.0     0.0           0.0         0.0             0.0       42.0       0.0
-Grado                               0.0    0.0     0.0           0.0         0.0             0.0       57.0       0.0
-Secundaria                          0.0    0.0     0.0           0.0         0.0             0.0       50.0       0.0
-Islam                               0.0    0.0     0.0           0.0         0.0             0.0        0.0      44.0
-Ateismo                             0.0    0.0     0.0           0.0         0.0             0.0        0.0      37.0
-Budismo                             0.0    0.0     0.0           0.0         0.0             0.0        0.0      48.0
-Hinduismo                           0.0    0.0     0.0           0.0         0.0             0.0        0.0      44.0
-Cristianismo                        0.0    0.0     0.0           0.0         0.0             0.0        0.0      42.0
+Consume cocaina                     0.0    0.0     0.0           0.0         0.0            42.0        0.0       0.0
+Secundaria                          0.0    0.0     0.0           0.0         0.0             0.0       44.0       0.0
+Grado                               0.0    0.0     0.0           0.0         0.0             0.0       52.0       0.0
+Analfabeto                          0.0    0.0     0.0           0.0         0.0             0.0       50.0       0.0
+Primaria                            0.0    0.0     0.0           0.0         0.0             0.0       40.0       0.0
+Doctorado                           0.0    0.0     0.0           0.0         0.0             0.0       64.0       0.0
+Islam                               0.0    0.0     0.0           0.0         0.0             0.0        0.0      53.0
+Budismo                             0.0    0.0     0.0           0.0         0.0             0.0        0.0      33.0
+Cristianismo                        0.0    0.0     0.0           0.0         0.0             0.0        0.0      30.0
+Hinduismo                           0.0    0.0     0.0           0.0         0.0             0.0        0.0      52.0
+Ateismo                             0.0    0.0     0.0           0.0         0.0             0.0        0.0      47.0
 Judaismo                            0.0    0.0     0.0           0.0         0.0             0.0        0.0      35.0
-
-Pacientes Seleccionados:

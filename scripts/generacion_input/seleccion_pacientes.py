@@ -58,8 +58,8 @@ pacientes = [
         "Clase Social": comb[3],
         "Enfermedad": comb[4],
         "Consumo Drogas": comb[5],
-        "Educación": comb[6],
-        "Religión": comb[7],
+        "Educacion": comb[6],
+        "Religion": comb[7],
     }
     for idx, comb in enumerate(pacientes_seleccionados)
 ]
@@ -75,8 +75,8 @@ contador_seleccionados = {
     'Clase social': Counter(),
     'Enfermedad': Counter(),
     'Consumo drogas': Counter(),
-    'Educación': Counter(),
-    'Religión': Counter(),
+    'Educacion': Counter(),
+    'Religion': Counter(),
 }
 
 for paciente in pacientes:
@@ -86,8 +86,8 @@ for paciente in pacientes:
     contador_seleccionados['Clase social'][paciente['Clase Social']] += 1
     contador_seleccionados['Enfermedad'][paciente['Enfermedad']] += 1
     contador_seleccionados['Consumo drogas'][paciente['Consumo Drogas']] += 1
-    contador_seleccionados['Educación'][paciente['Educación']] += 1
-    contador_seleccionados['Religión'][paciente['Religión']] += 1
+    contador_seleccionados['Educacion'][paciente['Educacion']] += 1
+    contador_seleccionados['Religion'][paciente['Religion']] += 1
 
 # Convertimos los contadores a un DataFrame para facilitar la visualización
 df_contador_seleccionados = pd.DataFrame(contador_seleccionados).fillna(0)
