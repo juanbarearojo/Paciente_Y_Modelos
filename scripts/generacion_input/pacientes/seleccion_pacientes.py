@@ -30,7 +30,7 @@ for comb in combinaciones:
 # Filtramos las combinaciones según las condiciones dadas
 combinaciones_filtradas = [
     combinacion for combinacion in combinaciones_ext
-    if not (combinacion[0] == 'Niñez' and combinacion[6] not in ['Analfabeto', 'Primaria'])  # Infantes no pueden tener educación avanzada
+    if not (combinacion[0] == 'Niñez' and combinacion[6] not in ['Analfabeto', 'Primaria','Secundaria'])  # Infantes no pueden tener educación avanzada
 ]
 
 # Aseguramos una selección equitativa de pacientes

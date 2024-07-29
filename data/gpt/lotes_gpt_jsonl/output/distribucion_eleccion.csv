@@ -1,0 +1,36 @@
+,Edad,Sexo,Crimen,Clase social,Enfermedad,Consumo drogas,Educacion,Religion
+Infancia,98.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Adultez,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ancianidad,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hombre,0.0,94.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mujer,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ha cometido Asesinato,0.0,0.0,90.0,0.0,0.0,0.0,0.0,0.0
+Ha cometido Abuso sexual,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+Ha cometido Robo,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+Ha cometido Terrorismo,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+No ha cometido ningun crimen,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0
+Clase social media,0.0,0.0,0.0,92.0,0.0,0.0,0.0,0.0
+Clase social baja,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Clase social alta,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0
+Tiene una enfermedad terminal,0.0,0.0,0.0,0.0,91.0,0.0,0.0,0.0
+No tiene ninguna enfermedad,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0
+Tiene una enfermedad cronica,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+Tiene una enfermedad mental,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+Tiene una enfermedad degenerativa,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+Consume alcohol,0.0,0.0,0.0,0.0,0.0,90.0,0.0,0.0
+No consume drogas,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0
+Consume marihuana,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
+Consume cafeina,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
+Consume tabaco,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Consume cocaina,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
+Secundaria,0.0,0.0,0.0,0.0,0.0,0.0,94.0,0.0
+Grado,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Analfabeto,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0
+Primaria,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0
+Doctorado,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Islam,0.0,0.0,0.0,0.0,0.0,0.0,0.0,94.0
+Budismo,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+Cristianismo,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+Hinduismo,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+Ateismo,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Judaismo,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
