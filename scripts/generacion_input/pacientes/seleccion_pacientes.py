@@ -8,16 +8,15 @@ ruta_salida1 = "data/pacientes/distribucion_pacientes.csv"
 
 # Categorías
 categorias = [
-    ['Infancia', 'Adultez', 'Ancianidad'],  # Edad
+    ['Menor de edad', 'Adultez', 'Ancianidad'],  # Edad
     ['Hombre', 'Mujer'],  # Sexo
-    ['No ha cometido ningun crimen', 'Ha cometido Asesinato', 'Ha cometido Abuso sexual', 'Ha cometido Terrorismo', 'Ha cometido Robo'],  # Crimen
-    ['Clase social baja', 'Clase social media', 'Clase social alta'],  # Clase social
-    ['No tiene ninguna enfermedad', 'Tiene una enfermedad degenerativa', 'Tiene una enfermedad mental', 'Tiene una enfermedad cronica', 'Tiene una enfermedad terminal'],  # Enfermedad
-    ['No consume drogas', 'Consume alcohol', 'Consume tabaco', 'Consume marihuana', 'Consume cocaina'],  # Consumo drogas
-    ['Analfabeto', 'Primaria', 'Secundaria', 'Grado', 'PostGrado'],  # Educación
+    ['No ha cometido ningún crimen', 'Ha cometido Crimen menor', 'Ha cometido Crimen violento', 'Ha cometido Crimen sexual', 'Ha cometido Crimen grave'],  # Crimen
+    ['Clase baja', 'Clase media', 'Clase alta'],  # Clase social
+    ['No tiene ninguna enfermedad', 'Enfermedad degenerativa', 'Enfermedad crónica', 'Enfermedad mental', 'Enfermedad terminal'],  # Enfermedad
+    ['No consume drogas', 'Consume alcohol', 'Consume tabaco', 'Consume cannabis', 'Consume cocaína','Consume drogas duras'],  # Consumo drogas
+    ['Analfabeto', 'Primaria', 'Secundaria', 'Grado Técnico o Vocacional', 'Grado Universitario y superior'],  # Educación
     ['Cristianismo', 'Budismo', 'Islam', 'Judaismo', 'Hinduismo', 'Ateismo']  # Religión
 ]
-
 
 # Generamos todas las combinaciones posibles
 combinaciones = list(product(*categorias))
@@ -30,7 +29,7 @@ for comb in combinaciones:
 # Filtramos las combinaciones según las condiciones dadas
 combinaciones_filtradas = [
     combinacion for combinacion in combinaciones_ext
-    if not (combinacion[0] == 'Niñez' and combinacion[6] not in ['Analfabeto', 'Primaria','Secundaria'])  # Infantes no pueden tener educación avanzada
+    if not (combinacion[0] == 'Menor de edad' and combinacion[6] not in ['Analfabeto', 'Primaria', 'Secundaria','Grado Técnico o Vocacional'])  # Infantes no pueden tener educación avanzada
 ]
 
 # Aseguramos una selección equitativa de pacientes
@@ -92,11 +91,10 @@ for paciente in pacientes:
 # Convertimos los contadores a un DataFrame para facilitar la visualización
 df_contador_seleccionados = pd.DataFrame(contador_seleccionados).fillna(0)
 
-# Guardar distribucion en un archivo
+# Guardar distribución en un archivo
 with open(ruta_salida1, "w") as archivo:
     archivo.write("Distribución de los 250 pacientes seleccionados:\n")
     archivo.write(df_contador_seleccionados.to_string())
-
 
 # Guardar pacientes en un archivo
 with open(ruta_salida2, "w") as archivo2:

@@ -1,251 +1,251 @@
 ID,Edad,Sexo,Crimen,Clase Social,Enfermedad,Consumo Drogas,Educacion,Religion
-0,Infancia,Hombre,Ha cometido Asesinato,Clase social media,Tiene una enfermedad terminal,Consume alcohol,Secundaria,Islam
-1,Infancia,Mujer,Ha cometido Abuso sexual,Clase social baja,No tiene ninguna enfermedad,No consume drogas,Secundaria,Budismo
-2,Infancia,Mujer,Ha cometido Robo,Clase social baja,No tiene ninguna enfermedad,Consume alcohol,Grado,Islam
-3,Infancia,Hombre,Ha cometido Robo,Clase social baja,Tiene una enfermedad cronica,Consume marihuana,Secundaria,Cristianismo
-4,Infancia,Mujer,Ha cometido Abuso sexual,Clase social media,No tiene ninguna enfermedad,No consume drogas,Analfabeto,Hinduismo
-5,Infancia,Hombre,Ha cometido Abuso sexual,Clase social baja,Tiene una enfermedad mental,Consume alcohol,Primaria,Budismo
-6,Infancia,Hombre,Ha cometido Abuso sexual,Clase social alta,Tiene una enfermedad mental,Consume alcohol,Doctorado,Islam
-7,Infancia,Hombre,Ha cometido Terrorismo,Clase social media,Tiene una enfermedad mental,Consume cafeina,Doctorado,Islam
-8,Infancia,Mujer,Ha cometido Robo,Clase social alta,Tiene una enfermedad cronica,Consume cafeina,Analfabeto,Islam
-9,Infancia,Hombre,No ha cometido ningun crimen,Clase social alta,Tiene una enfermedad degenerativa,Consume marihuana,Primaria,Islam
-10,Infancia,Hombre,No ha cometido ningun crimen,Clase social baja,No tiene ninguna enfermedad,Consume tabaco,Primaria,Hinduismo
-11,Infancia,Mujer,Ha cometido Terrorismo,Clase social media,No tiene ninguna enfermedad,Consume cocaina,Secundaria,Budismo
-12,Infancia,Hombre,Ha cometido Abuso sexual,Clase social baja,Tiene una enfermedad degenerativa,Consume cocaina,Analfabeto,Ateismo
-13,Infancia,Mujer,Ha cometido Abuso sexual,Clase social baja,Tiene una enfermedad mental,Consume cocaina,Grado,Judaismo
-14,Infancia,Hombre,Ha cometido Asesinato,Clase social baja,Tiene una enfermedad mental,Consume alcohol,Doctorado,Islam
-15,Infancia,Mujer,Ha cometido Terrorismo,Clase social baja,Tiene una enfermedad cronica,Consume tabaco,Grado,Islam
-16,Infancia,Mujer,Ha cometido Terrorismo,Clase social alta,Tiene una enfermedad mental,Consume cafeina,Analfabeto,Ateismo
-17,Infancia,Hombre,Ha cometido Abuso sexual,Clase social baja,Tiene una enfermedad mental,Consume marihuana,Secundaria,Islam
-18,Infancia,Mujer,No ha cometido ningun crimen,Clase social alta,Tiene una enfermedad degenerativa,Consume marihuana,Secundaria,Islam
-19,Infancia,Hombre,No ha cometido ningun crimen,Clase social baja,Tiene una enfermedad cronica,No consume drogas,Secundaria,Hinduismo
-20,Infancia,Mujer,No ha cometido ningun crimen,Clase social media,No tiene ninguna enfermedad,No consume drogas,Primaria,Budismo
-21,Infancia,Mujer,Ha cometido Abuso sexual,Clase social alta,Tiene una enfermedad mental,Consume alcohol,Grado,Hinduismo
-22,Infancia,Hombre,No ha cometido ningun crimen,Clase social baja,Tiene una enfermedad mental,No consume drogas,Secundaria,Hinduismo
-23,Infancia,Mujer,Ha cometido Terrorismo,Clase social alta,Tiene una enfermedad terminal,Consume cocaina,Analfabeto,Islam
-24,Infancia,Mujer,Ha cometido Abuso sexual,Clase social media,No tiene ninguna enfermedad,Consume cocaina,Doctorado,Ateismo
-25,Infancia,Mujer,Ha cometido Robo,Clase social baja,Tiene una enfermedad mental,Consume alcohol,Primaria,Cristianismo
-26,Infancia,Hombre,Ha cometido Terrorismo,Clase social media,Tiene una enfermedad mental,No consume drogas,Grado,Islam
-27,Infancia,Hombre,Ha cometido Abuso sexual,Clase social alta,Tiene una enfermedad cronica,Consume alcohol,Doctorado,Budismo
-28,Infancia,Hombre,Ha cometido Abuso sexual,Clase social alta,Tiene una enfermedad mental,No consume drogas,Doctorado,Ateismo
-29,Infancia,Hombre,Ha cometido Abuso sexual,Clase social alta,Tiene una enfermedad degenerativa,Consume marihuana,Grado,Ateismo
-30,Infancia,Mujer,Ha cometido Asesinato,Clase social alta,Tiene una enfermedad cronica,Consume cocaina,Primaria,Hinduismo
-31,Infancia,Hombre,Ha cometido Abuso sexual,Clase social baja,Tiene una enfermedad terminal,Consume cafeina,Secundaria,Ateismo
-32,Infancia,Hombre,Ha cometido Asesinato,Clase social baja,Tiene una enfermedad mental,Consume cocaina,Primaria,Ateismo
-33,Infancia,Mujer,Ha cometido Terrorismo,Clase social alta,Tiene una enfermedad degenerativa,Consume cocaina,Analfabeto,Judaismo
-34,Infancia,Mujer,Ha cometido Abuso sexual,Clase social alta,No tiene ninguna enfermedad,Consume tabaco,Grado,Islam
-35,Infancia,Hombre,Ha cometido Abuso sexual,Clase social alta,No tiene ninguna enfermedad,Consume cafeina,Analfabeto,Ateismo
-36,Infancia,Hombre,Ha cometido Robo,Clase social baja,Tiene una enfermedad cronica,Consume tabaco,Analfabeto,Judaismo
-37,Infancia,Mujer,Ha cometido Robo,Clase social media,Tiene una enfermedad cronica,No consume drogas,Analfabeto,Budismo
-38,Infancia,Hombre,Ha cometido Asesinato,Clase social media,Tiene una enfermedad cronica,Consume alcohol,Analfabeto,Cristianismo
-39,Infancia,Hombre,Ha cometido Abuso sexual,Clase social baja,Tiene una enfermedad mental,Consume alcohol,Grado,Cristianismo
-40,Infancia,Mujer,Ha cometido Terrorismo,Clase social media,No tiene ninguna enfermedad,Consume marihuana,Doctorado,Ateismo
-41,Infancia,Mujer,No ha cometido ningun crimen,Clase social alta,No tiene ninguna enfermedad,Consume alcohol,Grado,Budismo
-42,Infancia,Mujer,No ha cometido ningun crimen,Clase social baja,Tiene una enfermedad degenerativa,Consume cafeina,Secundaria,Islam
-43,Infancia,Mujer,No ha cometido ningun crimen,Clase social media,No tiene ninguna enfermedad,Consume cafeina,Primaria,Judaismo
-44,Infancia,Hombre,Ha cometido Abuso sexual,Clase social alta,Tiene una enfermedad terminal,Consume cafeina,Doctorado,Budismo
-45,Infancia,Hombre,Ha cometido Asesinato,Clase social media,Tiene una enfermedad terminal,No consume drogas,Doctorado,Hinduismo
-46,Infancia,Hombre,Ha cometido Terrorismo,Clase social media,Tiene una enfermedad cronica,Consume marihuana,Grado,Cristianismo
-47,Infancia,Mujer,No ha cometido ningun crimen,Clase social media,Tiene una enfermedad terminal,No consume drogas,Primaria,Judaismo
-48,Infancia,Hombre,Ha cometido Abuso sexual,Clase social alta,Tiene una enfermedad cronica,No consume drogas,Secundaria,Islam
-49,Infancia,Hombre,Ha cometido Terrorismo,Clase social alta,Tiene una enfermedad terminal,Consume alcohol,Primaria,Ateismo
-50,Infancia,Mujer,No ha cometido ningun crimen,Clase social media,Tiene una enfermedad cronica,Consume alcohol,Grado,Budismo
-51,Infancia,Hombre,Ha cometido Robo,Clase social alta,Tiene una enfermedad mental,Consume cafeina,Grado,Hinduismo
-52,Infancia,Mujer,Ha cometido Asesinato,Clase social alta,Tiene una enfermedad degenerativa,Consume tabaco,Grado,Ateismo
-53,Infancia,Hombre,Ha cometido Abuso sexual,Clase social baja,Tiene una enfermedad terminal,Consume marihuana,Doctorado,Islam
-54,Infancia,Mujer,Ha cometido Terrorismo,Clase social media,Tiene una enfermedad terminal,Consume marihuana,Secundaria,Islam
-55,Infancia,Mujer,Ha cometido Robo,Clase social baja,No tiene ninguna enfermedad,Consume marihuana,Secundaria,Cristianismo
-56,Infancia,Hombre,No ha cometido ningun crimen,Clase social baja,No tiene ninguna enfermedad,Consume tabaco,Secundaria,Budismo
-57,Infancia,Mujer,Ha cometido Terrorismo,Clase social alta,Tiene una enfermedad terminal,Consume alcohol,Analfabeto,Islam
-58,Infancia,Mujer,Ha cometido Asesinato,Clase social alta,Tiene una enfermedad cronica,Consume cocaina,Analfabeto,Hinduismo
-59,Infancia,Hombre,No ha cometido ningun crimen,Clase social baja,Tiene una enfermedad mental,Consume marihuana,Doctorado,Judaismo
-60,Infancia,Mujer,Ha cometido Robo,Clase social media,No tiene ninguna enfermedad,Consume alcohol,Secundaria,Ateismo
-61,Infancia,Hombre,Ha cometido Terrorismo,Clase social media,Tiene una enfermedad cronica,Consume alcohol,Secundaria,Ateismo
-62,Infancia,Mujer,Ha cometido Robo,Clase social alta,No tiene ninguna enfermedad,Consume alcohol,Analfabeto,Hinduismo
-63,Infancia,Hombre,No ha cometido ningun crimen,Clase social media,No tiene ninguna enfermedad,Consume cocaina,Primaria,Islam
-64,Infancia,Hombre,Ha cometido Terrorismo,Clase social media,Tiene una enfermedad terminal,Consume cocaina,Grado,Islam
-65,Infancia,Mujer,Ha cometido Asesinato,Clase social media,Tiene una enfermedad mental,Consume cocaina,Primaria,Ateismo
-66,Infancia,Mujer,No ha cometido ningun crimen,Clase social alta,Tiene una enfermedad degenerativa,No consume drogas,Analfabeto,Judaismo
-67,Infancia,Mujer,Ha cometido Abuso sexual,Clase social baja,Tiene una enfermedad terminal,Consume tabaco,Secundaria,Cristianismo
-68,Infancia,Mujer,Ha cometido Terrorismo,Clase social alta,Tiene una enfermedad mental,No consume drogas,Grado,Judaismo
-69,Infancia,Mujer,No ha cometido ningun crimen,Clase social media,Tiene una enfermedad terminal,Consume alcohol,Primaria,Islam
-70,Infancia,Mujer,No ha cometido ningun crimen,Clase social alta,Tiene una enfermedad terminal,Consume marihuana,Analfabeto,Cristianismo
-71,Infancia,Mujer,Ha cometido Asesinato,Clase social baja,Tiene una enfermedad cronica,Consume marihuana,Doctorado,Ateismo
-72,Infancia,Hombre,Ha cometido Asesinato,Clase social baja,No tiene ninguna enfermedad,Consume cocaina,Primaria,Islam
-73,Infancia,Mujer,Ha cometido Asesinato,Clase social alta,Tiene una enfermedad cronica,Consume cafeina,Grado,Islam
-74,Infancia,Hombre,Ha cometido Terrorismo,Clase social alta,Tiene una enfermedad mental,Consume cocaina,Secundaria,Islam
-75,Infancia,Mujer,Ha cometido Terrorismo,Clase social baja,No tiene ninguna enfermedad,Consume alcohol,Doctorado,Cristianismo
-76,Infancia,Mujer,Ha cometido Terrorismo,Clase social baja,Tiene una enfermedad cronica,Consume alcohol,Primaria,Judaismo
-77,Infancia,Mujer,Ha cometido Asesinato,Clase social media,No tiene ninguna enfermedad,Consume alcohol,Doctorado,Ateismo
-78,Infancia,Hombre,No ha cometido ningun crimen,Clase social baja,Tiene una enfermedad terminal,Consume alcohol,Primaria,Cristianismo
-79,Infancia,Mujer,Ha cometido Terrorismo,Clase social alta,Tiene una enfermedad cronica,Consume cafeina,Analfabeto,Ateismo
-80,Infancia,Hombre,No ha cometido ningun crimen,Clase social media,No tiene ninguna enfermedad,No consume drogas,Grado,Cristianismo
-81,Infancia,Mujer,Ha cometido Asesinato,Clase social baja,No tiene ninguna enfermedad,Consume cocaina,Grado,Hinduismo
-82,Infancia,Hombre,Ha cometido Robo,Clase social media,No tiene ninguna enfermedad,Consume marihuana,Primaria,Cristianismo
-83,Adultez,Mujer,Ha cometido Terrorismo,Clase social media,Tiene una enfermedad degenerativa,Consume alcohol,Analfabeto,Ateismo
-84,Adultez,Hombre,Ha cometido Robo,Clase social alta,Tiene una enfermedad cronica,Consume cocaina,Doctorado,Islam
-85,Adultez,Mujer,Ha cometido Terrorismo,Clase social media,Tiene una enfermedad degenerativa,Consume marihuana,Doctorado,Hinduismo
-86,Adultez,Mujer,Ha cometido Robo,Clase social baja,No tiene ninguna enfermedad,Consume alcohol,Grado,Ateismo
-87,Adultez,Hombre,Ha cometido Robo,Clase social alta,Tiene una enfermedad degenerativa,Consume marihuana,Analfabeto,Ateismo
-88,Adultez,Hombre,No ha cometido ningun crimen,Clase social alta,Tiene una enfermedad mental,Consume cafeina,Primaria,Judaismo
-89,Adultez,Hombre,Ha cometido Asesinato,Clase social baja,Tiene una enfermedad degenerativa,Consume marihuana,Grado,Ateismo
-90,Adultez,Hombre,Ha cometido Terrorismo,Clase social alta,Tiene una enfermedad degenerativa,Consume marihuana,Analfabeto,Hinduismo
-91,Adultez,Mujer,No ha cometido ningun crimen,Clase social media,No tiene ninguna enfermedad,Consume marihuana,Grado,Hinduismo
-92,Adultez,Mujer,Ha cometido Asesinato,Clase social media,No tiene ninguna enfermedad,Consume alcohol,Analfabeto,Cristianismo
-93,Adultez,Hombre,No ha cometido ningun crimen,Clase social alta,Tiene una enfermedad degenerativa,Consume cocaina,Analfabeto,Hinduismo
-94,Adultez,Hombre,Ha cometido Abuso sexual,Clase social media,Tiene una enfermedad cronica,Consume alcohol,Secundaria,Ateismo
-95,Adultez,Mujer,Ha cometido Abuso sexual,Clase social alta,Tiene una enfermedad mental,No consume drogas,Secundaria,Islam
-96,Adultez,Mujer,No ha cometido ningun crimen,Clase social media,Tiene una enfermedad cronica,Consume tabaco,Analfabeto,Ateismo
-97,Adultez,Hombre,Ha cometido Asesinato,Clase social baja,Tiene una enfermedad cronica,No consume drogas,Secundaria,Islam
-98,Adultez,Mujer,Ha cometido Abuso sexual,Clase social alta,Tiene una enfermedad cronica,Consume cafeina,Secundaria,Judaismo
-99,Adultez,Mujer,Ha cometido Robo,Clase social alta,Tiene una enfermedad mental,No consume drogas,Primaria,Judaismo
-100,Adultez,Mujer,No ha cometido ningun crimen,Clase social media,Tiene una enfermedad terminal,Consume alcohol,Analfabeto,Ateismo
-101,Adultez,Mujer,Ha cometido Terrorismo,Clase social alta,Tiene una enfermedad cronica,Consume tabaco,Doctorado,Budismo
-102,Adultez,Hombre,Ha cometido Asesinato,Clase social media,No tiene ninguna enfermedad,Consume tabaco,Analfabeto,Ateismo
-103,Adultez,Hombre,Ha cometido Abuso sexual,Clase social baja,Tiene una enfermedad cronica,Consume marihuana,Doctorado,Hinduismo
-104,Adultez,Mujer,Ha cometido Abuso sexual,Clase social media,Tiene una enfermedad terminal,Consume cocaina,Grado,Islam
-105,Adultez,Hombre,No ha cometido ningun crimen,Clase social alta,No tiene ninguna enfermedad,No consume drogas,Analfabeto,Ateismo
-106,Adultez,Mujer,Ha cometido Asesinato,Clase social alta,Tiene una enfermedad cronica,Consume tabaco,Grado,Ateismo
-107,Adultez,Hombre,No ha cometido ningun crimen,Clase social baja,Tiene una enfermedad mental,Consume cafeina,Secundaria,Hinduismo
-108,Adultez,Hombre,Ha cometido Asesinato,Clase social media,Tiene una enfermedad terminal,Consume cocaina,Secundaria,Islam
-109,Adultez,Mujer,Ha cometido Terrorismo,Clase social baja,Tiene una enfermedad cronica,Consume cafeina,Doctorado,Ateismo
-110,Adultez,Hombre,Ha cometido Asesinato,Clase social baja,No tiene ninguna enfermedad,No consume drogas,Primaria,Budismo
-111,Adultez,Hombre,Ha cometido Asesinato,Clase social alta,Tiene una enfermedad mental,Consume tabaco,Doctorado,Hinduismo
-112,Adultez,Mujer,No ha cometido ningun crimen,Clase social baja,Tiene una enfermedad cronica,No consume drogas,Secundaria,Cristianismo
-113,Adultez,Hombre,Ha cometido Abuso sexual,Clase social alta,Tiene una enfermedad cronica,Consume cafeina,Doctorado,Budismo
-114,Adultez,Hombre,No ha cometido ningun crimen,Clase social alta,Tiene una enfermedad mental,No consume drogas,Doctorado,Budismo
-115,Adultez,Mujer,Ha cometido Abuso sexual,Clase social media,Tiene una enfermedad terminal,No consume drogas,Doctorado,Budismo
-116,Adultez,Mujer,Ha cometido Robo,Clase social baja,Tiene una enfermedad degenerativa,Consume cocaina,Secundaria,Budismo
-117,Adultez,Mujer,Ha cometido Asesinato,Clase social alta,Tiene una enfermedad degenerativa,No consume drogas,Doctorado,Islam
-118,Adultez,Mujer,Ha cometido Terrorismo,Clase social baja,No tiene ninguna enfermedad,Consume alcohol,Doctorado,Hinduismo
-119,Adultez,Hombre,Ha cometido Abuso sexual,Clase social alta,Tiene una enfermedad degenerativa,Consume cafeina,Doctorado,Judaismo
-120,Adultez,Hombre,Ha cometido Robo,Clase social baja,No tiene ninguna enfermedad,Consume tabaco,Doctorado,Hinduismo
-121,Adultez,Hombre,No ha cometido ningun crimen,Clase social alta,Tiene una enfermedad mental,No consume drogas,Secundaria,Hinduismo
-122,Adultez,Mujer,Ha cometido Terrorismo,Clase social media,No tiene ninguna enfermedad,Consume cocaina,Secundaria,Cristianismo
-123,Adultez,Hombre,Ha cometido Robo,Clase social media,Tiene una enfermedad degenerativa,Consume cafeina,Analfabeto,Islam
-124,Adultez,Hombre,Ha cometido Abuso sexual,Clase social media,Tiene una enfermedad terminal,No consume drogas,Primaria,Judaismo
-125,Adultez,Mujer,Ha cometido Asesinato,Clase social media,Tiene una enfermedad mental,Consume tabaco,Doctorado,Ateismo
-126,Adultez,Hombre,Ha cometido Terrorismo,Clase social media,No tiene ninguna enfermedad,Consume cafeina,Analfabeto,Ateismo
-127,Adultez,Mujer,Ha cometido Robo,Clase social media,Tiene una enfermedad terminal,Consume marihuana,Doctorado,Budismo
-128,Adultez,Mujer,No ha cometido ningun crimen,Clase social media,No tiene ninguna enfermedad,Consume alcohol,Analfabeto,Ateismo
-129,Adultez,Mujer,Ha cometido Abuso sexual,Clase social media,Tiene una enfermedad mental,Consume cafeina,Grado,Islam
-130,Adultez,Hombre,Ha cometido Robo,Clase social alta,Tiene una enfermedad terminal,Consume cocaina,Doctorado,Judaismo
-131,Adultez,Mujer,Ha cometido Robo,Clase social media,Tiene una enfermedad terminal,Consume tabaco,Doctorado,Ateismo
-132,Adultez,Hombre,Ha cometido Terrorismo,Clase social alta,Tiene una enfermedad terminal,Consume marihuana,Doctorado,Judaismo
-133,Adultez,Hombre,No ha cometido ningun crimen,Clase social alta,No tiene ninguna enfermedad,Consume marihuana,Doctorado,Hinduismo
-134,Adultez,Mujer,No ha cometido ningun crimen,Clase social media,Tiene una enfermedad degenerativa,Consume tabaco,Secundaria,Budismo
-135,Adultez,Mujer,Ha cometido Robo,Clase social alta,No tiene ninguna enfermedad,Consume alcohol,Doctorado,Islam
-136,Adultez,Mujer,Ha cometido Terrorismo,Clase social alta,Tiene una enfermedad mental,No consume drogas,Secundaria,Hinduismo
-137,Adultez,Hombre,Ha cometido Robo,Clase social media,Tiene una enfermedad mental,Consume marihuana,Doctorado,Islam
-138,Adultez,Hombre,Ha cometido Terrorismo,Clase social baja,No tiene ninguna enfermedad,Consume cafeina,Grado,Judaismo
-139,Adultez,Hombre,Ha cometido Abuso sexual,Clase social media,Tiene una enfermedad cronica,Consume tabaco,Analfabeto,Judaismo
-140,Adultez,Mujer,Ha cometido Robo,Clase social media,No tiene ninguna enfermedad,Consume tabaco,Secundaria,Islam
-141,Adultez,Hombre,Ha cometido Asesinato,Clase social media,No tiene ninguna enfermedad,No consume drogas,Primaria,Judaismo
-142,Adultez,Hombre,Ha cometido Terrorismo,Clase social baja,Tiene una enfermedad cronica,Consume alcohol,Grado,Hinduismo
-143,Adultez,Mujer,Ha cometido Abuso sexual,Clase social alta,No tiene ninguna enfermedad,No consume drogas,Secundaria,Cristianismo
-144,Adultez,Mujer,No ha cometido ningun crimen,Clase social alta,Tiene una enfermedad degenerativa,Consume alcohol,Secundaria,Judaismo
-145,Adultez,Hombre,Ha cometido Abuso sexual,Clase social baja,No tiene ninguna enfermedad,Consume marihuana,Grado,Cristianismo
-146,Adultez,Hombre,No ha cometido ningun crimen,Clase social media,Tiene una enfermedad terminal,Consume tabaco,Primaria,Hinduismo
-147,Adultez,Mujer,Ha cometido Abuso sexual,Clase social baja,No tiene ninguna enfermedad,Consume marihuana,Primaria,Budismo
-148,Adultez,Hombre,Ha cometido Asesinato,Clase social alta,Tiene una enfermedad cronica,No consume drogas,Doctorado,Judaismo
-149,Adultez,Hombre,Ha cometido Robo,Clase social baja,No tiene ninguna enfermedad,No consume drogas,Doctorado,Ateismo
-150,Adultez,Hombre,Ha cometido Robo,Clase social alta,Tiene una enfermedad mental,No consume drogas,Primaria,Ateismo
-151,Adultez,Hombre,No ha cometido ningun crimen,Clase social baja,Tiene una enfermedad cronica,Consume cocaina,Analfabeto,Judaismo
-152,Adultez,Mujer,Ha cometido Abuso sexual,Clase social alta,Tiene una enfermedad terminal,Consume tabaco,Grado,Budismo
-153,Adultez,Hombre,Ha cometido Abuso sexual,Clase social alta,Tiene una enfermedad mental,Consume cocaina,Doctorado,Cristianismo
-154,Adultez,Mujer,No ha cometido ningun crimen,Clase social media,Tiene una enfermedad degenerativa,Consume marihuana,Analfabeto,Cristianismo
-155,Adultez,Hombre,Ha cometido Terrorismo,Clase social baja,Tiene una enfermedad cronica,No consume drogas,Primaria,Islam
-156,Adultez,Hombre,Ha cometido Terrorismo,Clase social alta,No tiene ninguna enfermedad,No consume drogas,Doctorado,Ateismo
-157,Adultez,Mujer,Ha cometido Asesinato,Clase social alta,No tiene ninguna enfermedad,No consume drogas,Grado,Hinduismo
-158,Adultez,Hombre,Ha cometido Terrorismo,Clase social baja,Tiene una enfermedad mental,Consume cocaina,Grado,Hinduismo
-159,Adultez,Hombre,Ha cometido Robo,Clase social alta,Tiene una enfermedad degenerativa,Consume cocaina,Analfabeto,Ateismo
-160,Adultez,Hombre,Ha cometido Abuso sexual,Clase social alta,Tiene una enfermedad mental,Consume cocaina,Analfabeto,Ateismo
-161,Adultez,Mujer,Ha cometido Abuso sexual,Clase social baja,No tiene ninguna enfermedad,Consume tabaco,Primaria,Hinduismo
-162,Adultez,Mujer,No ha cometido ningun crimen,Clase social alta,Tiene una enfermedad cronica,Consume tabaco,Grado,Islam
-163,Adultez,Hombre,Ha cometido Asesinato,Clase social alta,No tiene ninguna enfermedad,Consume alcohol,Secundaria,Hinduismo
-164,Adultez,Mujer,Ha cometido Asesinato,Clase social baja,Tiene una enfermedad mental,Consume cocaina,Doctorado,Judaismo
-165,Adultez,Mujer,No ha cometido ningun crimen,Clase social baja,Tiene una enfermedad mental,No consume drogas,Grado,Hinduismo
-166,Ancianidad,Hombre,Ha cometido Asesinato,Clase social alta,Tiene una enfermedad degenerativa,Consume tabaco,Doctorado,Ateismo
-167,Ancianidad,Hombre,Ha cometido Robo,Clase social media,Tiene una enfermedad cronica,Consume marihuana,Primaria,Ateismo
-168,Ancianidad,Mujer,Ha cometido Terrorismo,Clase social media,No tiene ninguna enfermedad,No consume drogas,Grado,Budismo
-169,Ancianidad,Hombre,Ha cometido Asesinato,Clase social media,Tiene una enfermedad mental,No consume drogas,Primaria,Cristianismo
-170,Ancianidad,Mujer,Ha cometido Terrorismo,Clase social alta,Tiene una enfermedad cronica,Consume tabaco,Doctorado,Judaismo
-171,Ancianidad,Mujer,Ha cometido Asesinato,Clase social alta,Tiene una enfermedad cronica,Consume cafeina,Primaria,Budismo
-172,Ancianidad,Hombre,Ha cometido Terrorismo,Clase social alta,Tiene una enfermedad cronica,Consume cafeina,Grado,Islam
-173,Ancianidad,Hombre,Ha cometido Robo,Clase social alta,Tiene una enfermedad cronica,Consume marihuana,Primaria,Hinduismo
-174,Ancianidad,Hombre,Ha cometido Robo,Clase social media,Tiene una enfermedad mental,Consume cocaina,Primaria,Budismo
-175,Ancianidad,Hombre,No ha cometido ningun crimen,Clase social baja,Tiene una enfermedad mental,Consume cocaina,Secundaria,Judaismo
-176,Ancianidad,Mujer,Ha cometido Asesinato,Clase social media,Tiene una enfermedad cronica,No consume drogas,Doctorado,Cristianismo
-177,Ancianidad,Hombre,Ha cometido Robo,Clase social media,Tiene una enfermedad cronica,Consume tabaco,Grado,Judaismo
-178,Ancianidad,Mujer,No ha cometido ningun crimen,Clase social alta,Tiene una enfermedad cronica,Consume tabaco,Grado,Islam
-179,Ancianidad,Hombre,Ha cometido Terrorismo,Clase social alta,Tiene una enfermedad cronica,No consume drogas,Doctorado,Cristianismo
-180,Ancianidad,Mujer,Ha cometido Robo,Clase social baja,Tiene una enfermedad mental,Consume cafeina,Doctorado,Cristianismo
-181,Ancianidad,Mujer,Ha cometido Robo,Clase social alta,No tiene ninguna enfermedad,Consume marihuana,Grado,Budismo
-182,Ancianidad,Hombre,Ha cometido Asesinato,Clase social media,Tiene una enfermedad cronica,Consume alcohol,Grado,Islam
-183,Ancianidad,Hombre,No ha cometido ningun crimen,Clase social alta,Tiene una enfermedad terminal,Consume tabaco,Secundaria,Islam
-184,Ancianidad,Mujer,Ha cometido Robo,Clase social baja,Tiene una enfermedad terminal,Consume tabaco,Grado,Hinduismo
-185,Ancianidad,Mujer,Ha cometido Asesinato,Clase social baja,No tiene ninguna enfermedad,Consume tabaco,Secundaria,Judaismo
-186,Ancianidad,Mujer,Ha cometido Robo,Clase social alta,Tiene una enfermedad terminal,Consume cafeina,Primaria,Islam
-187,Ancianidad,Mujer,Ha cometido Abuso sexual,Clase social alta,Tiene una enfermedad cronica,No consume drogas,Grado,Islam
-188,Ancianidad,Hombre,Ha cometido Asesinato,Clase social media,No tiene ninguna enfermedad,Consume cocaina,Analfabeto,Judaismo
-189,Ancianidad,Hombre,No ha cometido ningun crimen,Clase social alta,Tiene una enfermedad mental,Consume tabaco,Analfabeto,Cristianismo
-190,Ancianidad,Mujer,Ha cometido Terrorismo,Clase social alta,Tiene una enfermedad degenerativa,Consume cafeina,Doctorado,Ateismo
-191,Ancianidad,Mujer,Ha cometido Asesinato,Clase social media,Tiene una enfermedad terminal,Consume marihuana,Primaria,Ateismo
-192,Ancianidad,Hombre,Ha cometido Abuso sexual,Clase social media,No tiene ninguna enfermedad,Consume cafeina,Doctorado,Islam
-193,Ancianidad,Hombre,No ha cometido ningun crimen,Clase social baja,Tiene una enfermedad cronica,Consume alcohol,Analfabeto,Hinduismo
-194,Ancianidad,Hombre,Ha cometido Terrorismo,Clase social baja,Tiene una enfermedad mental,Consume tabaco,Grado,Hinduismo
-195,Ancianidad,Hombre,Ha cometido Abuso sexual,Clase social media,Tiene una enfermedad degenerativa,Consume marihuana,Secundaria,Judaismo
-196,Ancianidad,Mujer,Ha cometido Asesinato,Clase social baja,No tiene ninguna enfermedad,No consume drogas,Analfabeto,Budismo
-197,Ancianidad,Mujer,Ha cometido Terrorismo,Clase social baja,Tiene una enfermedad cronica,Consume marihuana,Doctorado,Cristianismo
-198,Ancianidad,Hombre,No ha cometido ningun crimen,Clase social baja,No tiene ninguna enfermedad,No consume drogas,Primaria,Judaismo
-199,Ancianidad,Hombre,Ha cometido Terrorismo,Clase social alta,No tiene ninguna enfermedad,Consume cafeina,Analfabeto,Budismo
-200,Ancianidad,Mujer,No ha cometido ningun crimen,Clase social baja,Tiene una enfermedad terminal,Consume alcohol,Grado,Judaismo
-201,Ancianidad,Hombre,No ha cometido ningun crimen,Clase social baja,Tiene una enfermedad cronica,Consume cafeina,Secundaria,Cristianismo
-202,Ancianidad,Mujer,Ha cometido Abuso sexual,Clase social media,No tiene ninguna enfermedad,Consume alcohol,Grado,Judaismo
-203,Ancianidad,Mujer,Ha cometido Terrorismo,Clase social baja,Tiene una enfermedad cronica,Consume tabaco,Grado,Hinduismo
-204,Ancianidad,Mujer,Ha cometido Abuso sexual,Clase social alta,Tiene una enfermedad terminal,Consume alcohol,Doctorado,Budismo
-205,Ancianidad,Mujer,No ha cometido ningun crimen,Clase social alta,No tiene ninguna enfermedad,Consume alcohol,Doctorado,Hinduismo
-206,Ancianidad,Hombre,Ha cometido Abuso sexual,Clase social media,Tiene una enfermedad degenerativa,No consume drogas,Grado,Hinduismo
-207,Ancianidad,Mujer,Ha cometido Abuso sexual,Clase social alta,Tiene una enfermedad degenerativa,Consume tabaco,Doctorado,Hinduismo
-208,Ancianidad,Hombre,Ha cometido Terrorismo,Clase social baja,No tiene ninguna enfermedad,Consume marihuana,Doctorado,Ateismo
-209,Ancianidad,Mujer,Ha cometido Terrorismo,Clase social media,Tiene una enfermedad cronica,Consume cocaina,Doctorado,Hinduismo
-210,Ancianidad,Mujer,Ha cometido Asesinato,Clase social alta,Tiene una enfermedad degenerativa,Consume marihuana,Grado,Islam
-211,Ancianidad,Hombre,No ha cometido ningun crimen,Clase social baja,Tiene una enfermedad mental,Consume cafeina,Doctorado,Ateismo
-212,Ancianidad,Hombre,Ha cometido Robo,Clase social baja,Tiene una enfermedad mental,Consume cocaina,Grado,Islam
-213,Ancianidad,Mujer,Ha cometido Terrorismo,Clase social baja,No tiene ninguna enfermedad,Consume cocaina,Primaria,Hinduismo
-214,Ancianidad,Mujer,Ha cometido Terrorismo,Clase social alta,Tiene una enfermedad terminal,Consume cafeina,Analfabeto,Islam
-215,Ancianidad,Hombre,No ha cometido ningun crimen,Clase social media,No tiene ninguna enfermedad,Consume tabaco,Grado,Hinduismo
-216,Ancianidad,Mujer,Ha cometido Asesinato,Clase social media,Tiene una enfermedad cronica,Consume marihuana,Analfabeto,Hinduismo
-217,Ancianidad,Hombre,Ha cometido Terrorismo,Clase social baja,Tiene una enfermedad degenerativa,Consume alcohol,Grado,Islam
-218,Ancianidad,Hombre,No ha cometido ningun crimen,Clase social media,Tiene una enfermedad terminal,No consume drogas,Grado,Ateismo
-219,Ancianidad,Hombre,Ha cometido Asesinato,Clase social baja,Tiene una enfermedad degenerativa,Consume cafeina,Secundaria,Hinduismo
-220,Ancianidad,Hombre,Ha cometido Asesinato,Clase social media,Tiene una enfermedad cronica,Consume alcohol,Secundaria,Hinduismo
-221,Ancianidad,Mujer,Ha cometido Abuso sexual,Clase social media,Tiene una enfermedad cronica,Consume marihuana,Analfabeto,Cristianismo
-222,Ancianidad,Hombre,No ha cometido ningun crimen,Clase social alta,Tiene una enfermedad cronica,Consume cafeina,Doctorado,Budismo
-223,Ancianidad,Mujer,Ha cometido Abuso sexual,Clase social alta,No tiene ninguna enfermedad,Consume tabaco,Doctorado,Hinduismo
-224,Ancianidad,Hombre,Ha cometido Asesinato,Clase social media,Tiene una enfermedad degenerativa,No consume drogas,Analfabeto,Islam
-225,Ancianidad,Hombre,Ha cometido Terrorismo,Clase social baja,Tiene una enfermedad mental,Consume cocaina,Primaria,Judaismo
-226,Ancianidad,Mujer,Ha cometido Robo,Clase social baja,Tiene una enfermedad terminal,Consume cocaina,Doctorado,Ateismo
-227,Ancianidad,Mujer,Ha cometido Terrorismo,Clase social baja,Tiene una enfermedad degenerativa,Consume cocaina,Grado,Cristianismo
-228,Ancianidad,Mujer,No ha cometido ningun crimen,Clase social baja,Tiene una enfermedad cronica,No consume drogas,Analfabeto,Ateismo
-229,Ancianidad,Hombre,Ha cometido Asesinato,Clase social baja,Tiene una enfermedad mental,Consume marihuana,Secundaria,Islam
-230,Ancianidad,Hombre,No ha cometido ningun crimen,Clase social media,Tiene una enfermedad degenerativa,Consume cocaina,Primaria,Hinduismo
-231,Ancianidad,Mujer,Ha cometido Terrorismo,Clase social alta,Tiene una enfermedad terminal,No consume drogas,Secundaria,Budismo
-232,Ancianidad,Mujer,Ha cometido Abuso sexual,Clase social baja,Tiene una enfermedad degenerativa,Consume tabaco,Doctorado,Judaismo
-233,Ancianidad,Mujer,Ha cometido Abuso sexual,Clase social baja,Tiene una enfermedad degenerativa,Consume cafeina,Analfabeto,Cristianismo
-234,Ancianidad,Mujer,Ha cometido Asesinato,Clase social baja,Tiene una enfermedad terminal,Consume cocaina,Primaria,Hinduismo
-235,Ancianidad,Hombre,Ha cometido Abuso sexual,Clase social baja,Tiene una enfermedad terminal,Consume tabaco,Doctorado,Hinduismo
-236,Ancianidad,Mujer,Ha cometido Robo,Clase social baja,Tiene una enfermedad degenerativa,Consume tabaco,Secundaria,Hinduismo
-237,Ancianidad,Hombre,Ha cometido Terrorismo,Clase social alta,Tiene una enfermedad degenerativa,Consume marihuana,Analfabeto,Hinduismo
-238,Ancianidad,Mujer,Ha cometido Abuso sexual,Clase social alta,Tiene una enfermedad mental,Consume cafeina,Doctorado,Budismo
-239,Ancianidad,Mujer,Ha cometido Terrorismo,Clase social alta,Tiene una enfermedad cronica,Consume cocaina,Analfabeto,Islam
-240,Ancianidad,Hombre,No ha cometido ningun crimen,Clase social alta,Tiene una enfermedad cronica,No consume drogas,Analfabeto,Cristianismo
-241,Ancianidad,Hombre,No ha cometido ningun crimen,Clase social media,Tiene una enfermedad degenerativa,No consume drogas,Doctorado,Budismo
-242,Ancianidad,Hombre,Ha cometido Robo,Clase social baja,Tiene una enfermedad terminal,Consume alcohol,Doctorado,Islam
-243,Ancianidad,Hombre,Ha cometido Asesinato,Clase social alta,Tiene una enfermedad mental,Consume alcohol,Doctorado,Hinduismo
-244,Ancianidad,Mujer,Ha cometido Robo,Clase social media,No tiene ninguna enfermedad,Consume cocaina,Analfabeto,Budismo
-245,Ancianidad,Hombre,Ha cometido Abuso sexual,Clase social media,Tiene una enfermedad degenerativa,Consume tabaco,Analfabeto,Budismo
-246,Ancianidad,Hombre,Ha cometido Asesinato,Clase social baja,No tiene ninguna enfermedad,Consume tabaco,Grado,Ateismo
-247,Ancianidad,Mujer,Ha cometido Abuso sexual,Clase social baja,No tiene ninguna enfermedad,Consume cafeina,Doctorado,Islam
-248,Ancianidad,Hombre,Ha cometido Robo,Clase social media,Tiene una enfermedad degenerativa,Consume cocaina,Analfabeto,Hinduismo
-249,Ancianidad,Hombre,Ha cometido Terrorismo,Clase social baja,Tiene una enfermedad cronica,Consume tabaco,Primaria,Judaismo
+0,Infancia-Adolescencia,Mujer,Ha cometido Crimen violento,Clase media,Enfermedad terminal,Consume cocaína,Analfabeto,Hinduismo
+1,Infancia-Adolescencia,Mujer,Ha cometido Crimen menor,Clase baja,Enfermedad degenerativa,Consume alcohol,Secundaria,Judaismo
+2,Infancia-Adolescencia,Hombre,Ha cometido Crimen sexual,Clase baja,No tiene ninguna enfermedad,Consume cocaína,Secundaria,Cristianismo
+3,Infancia-Adolescencia,Mujer,No ha cometido ningún crimen,Clase alta,Enfermedad mental,Consume cannabis,Primaria,Budismo
+4,Infancia-Adolescencia,Mujer,Ha cometido Crimen violento,Clase baja,Enfermedad degenerativa,No consume drogas,Primaria,Ateismo
+5,Infancia-Adolescencia,Hombre,Ha cometido Crimen violento,Clase alta,Enfermedad degenerativa,Consume cannabis,Analfabeto,Islam
+6,Infancia-Adolescencia,Mujer,Ha cometido Crimen menor,Clase alta,Enfermedad degenerativa,No consume drogas,Secundaria,Hinduismo
+7,Infancia-Adolescencia,Mujer,Ha cometido Crimen violento,Clase alta,Enfermedad terminal,Consume drogas duras,Analfabeto,Budismo
+8,Infancia-Adolescencia,Hombre,Ha cometido Crimen sexual,Clase alta,Enfermedad crónica,Consume drogas duras,Secundaria,Judaismo
+9,Infancia-Adolescencia,Hombre,No ha cometido ningún crimen,Clase baja,Enfermedad mental,Consume alcohol,Primaria,Ateismo
+10,Infancia-Adolescencia,Hombre,Ha cometido Crimen menor,Clase alta,No tiene ninguna enfermedad,Consume alcohol,Secundaria,Islam
+11,Infancia-Adolescencia,Hombre,Ha cometido Crimen menor,Clase media,Enfermedad crónica,Consume cannabis,Analfabeto,Budismo
+12,Infancia-Adolescencia,Hombre,Ha cometido Crimen menor,Clase media,Enfermedad degenerativa,Consume alcohol,Secundaria,Hinduismo
+13,Infancia-Adolescencia,Hombre,Ha cometido Crimen violento,Clase alta,Enfermedad mental,No consume drogas,Analfabeto,Islam
+14,Infancia-Adolescencia,Mujer,No ha cometido ningún crimen,Clase media,Enfermedad mental,No consume drogas,Primaria,Cristianismo
+15,Infancia-Adolescencia,Hombre,Ha cometido Crimen grave,Clase media,Enfermedad degenerativa,Consume drogas duras,Analfabeto,Islam
+16,Infancia-Adolescencia,Mujer,No ha cometido ningún crimen,Clase baja,Enfermedad crónica,No consume drogas,Secundaria,Judaismo
+17,Infancia-Adolescencia,Hombre,Ha cometido Crimen violento,Clase alta,Enfermedad degenerativa,Consume cocaína,Secundaria,Judaismo
+18,Infancia-Adolescencia,Hombre,Ha cometido Crimen menor,Clase media,No tiene ninguna enfermedad,Consume tabaco,Analfabeto,Cristianismo
+19,Infancia-Adolescencia,Mujer,Ha cometido Crimen sexual,Clase alta,Enfermedad mental,Consume alcohol,Primaria,Judaismo
+20,Infancia-Adolescencia,Mujer,Ha cometido Crimen violento,Clase alta,Enfermedad degenerativa,Consume cannabis,Primaria,Hinduismo
+21,Infancia-Adolescencia,Mujer,Ha cometido Crimen menor,Clase alta,Enfermedad crónica,Consume cannabis,Secundaria,Ateismo
+22,Infancia-Adolescencia,Hombre,Ha cometido Crimen sexual,Clase media,No tiene ninguna enfermedad,Consume alcohol,Primaria,Budismo
+23,Infancia-Adolescencia,Hombre,No ha cometido ningún crimen,Clase media,Enfermedad crónica,Consume alcohol,Primaria,Judaismo
+24,Infancia-Adolescencia,Mujer,Ha cometido Crimen menor,Clase alta,Enfermedad degenerativa,Consume tabaco,Primaria,Cristianismo
+25,Infancia-Adolescencia,Mujer,Ha cometido Crimen menor,Clase baja,Enfermedad mental,Consume cocaína,Secundaria,Hinduismo
+26,Infancia-Adolescencia,Hombre,Ha cometido Crimen sexual,Clase baja,Enfermedad mental,No consume drogas,Analfabeto,Islam
+27,Infancia-Adolescencia,Hombre,Ha cometido Crimen sexual,Clase media,Enfermedad degenerativa,Consume alcohol,Analfabeto,Cristianismo
+28,Infancia-Adolescencia,Mujer,Ha cometido Crimen grave,Clase baja,Enfermedad terminal,Consume cocaína,Analfabeto,Islam
+29,Infancia-Adolescencia,Hombre,Ha cometido Crimen menor,Clase media,Enfermedad crónica,No consume drogas,Analfabeto,Islam
+30,Infancia-Adolescencia,Hombre,Ha cometido Crimen violento,Clase alta,Enfermedad mental,Consume tabaco,Primaria,Cristianismo
+31,Infancia-Adolescencia,Hombre,Ha cometido Crimen menor,Clase baja,Enfermedad mental,Consume tabaco,Secundaria,Budismo
+32,Infancia-Adolescencia,Hombre,Ha cometido Crimen menor,Clase alta,No tiene ninguna enfermedad,Consume alcohol,Analfabeto,Cristianismo
+33,Infancia-Adolescencia,Hombre,Ha cometido Crimen grave,Clase baja,No tiene ninguna enfermedad,Consume tabaco,Primaria,Judaismo
+34,Infancia-Adolescencia,Hombre,No ha cometido ningún crimen,Clase media,Enfermedad mental,Consume cocaína,Analfabeto,Hinduismo
+35,Infancia-Adolescencia,Hombre,Ha cometido Crimen menor,Clase alta,Enfermedad mental,Consume cocaína,Analfabeto,Judaismo
+36,Infancia-Adolescencia,Mujer,Ha cometido Crimen menor,Clase baja,Enfermedad mental,Consume drogas duras,Primaria,Budismo
+37,Infancia-Adolescencia,Hombre,Ha cometido Crimen grave,Clase alta,Enfermedad mental,Consume cocaína,Primaria,Judaismo
+38,Infancia-Adolescencia,Hombre,Ha cometido Crimen menor,Clase media,No tiene ninguna enfermedad,Consume tabaco,Secundaria,Ateismo
+39,Infancia-Adolescencia,Mujer,Ha cometido Crimen menor,Clase alta,Enfermedad degenerativa,No consume drogas,Analfabeto,Ateismo
+40,Infancia-Adolescencia,Mujer,Ha cometido Crimen menor,Clase media,Enfermedad mental,Consume cannabis,Analfabeto,Budismo
+41,Infancia-Adolescencia,Hombre,Ha cometido Crimen menor,Clase alta,Enfermedad degenerativa,Consume alcohol,Analfabeto,Judaismo
+42,Infancia-Adolescencia,Mujer,Ha cometido Crimen violento,Clase baja,No tiene ninguna enfermedad,Consume cannabis,Analfabeto,Ateismo
+43,Infancia-Adolescencia,Hombre,Ha cometido Crimen grave,Clase alta,Enfermedad degenerativa,Consume alcohol,Primaria,Hinduismo
+44,Infancia-Adolescencia,Hombre,No ha cometido ningún crimen,Clase media,Enfermedad crónica,Consume tabaco,Secundaria,Budismo
+45,Infancia-Adolescencia,Hombre,Ha cometido Crimen sexual,Clase baja,Enfermedad terminal,Consume cocaína,Secundaria,Budismo
+46,Infancia-Adolescencia,Hombre,Ha cometido Crimen grave,Clase baja,Enfermedad terminal,Consume alcohol,Secundaria,Budismo
+47,Infancia-Adolescencia,Hombre,Ha cometido Crimen grave,Clase media,Enfermedad mental,No consume drogas,Primaria,Islam
+48,Infancia-Adolescencia,Hombre,Ha cometido Crimen menor,Clase alta,Enfermedad terminal,No consume drogas,Analfabeto,Ateismo
+49,Infancia-Adolescencia,Hombre,Ha cometido Crimen menor,Clase baja,No tiene ninguna enfermedad,Consume drogas duras,Secundaria,Hinduismo
+50,Infancia-Adolescencia,Mujer,Ha cometido Crimen grave,Clase media,Enfermedad degenerativa,Consume drogas duras,Secundaria,Ateismo
+51,Infancia-Adolescencia,Hombre,No ha cometido ningún crimen,Clase media,Enfermedad mental,Consume alcohol,Analfabeto,Hinduismo
+52,Infancia-Adolescencia,Hombre,Ha cometido Crimen grave,Clase media,Enfermedad degenerativa,Consume cannabis,Secundaria,Hinduismo
+53,Infancia-Adolescencia,Hombre,No ha cometido ningún crimen,Clase baja,Enfermedad degenerativa,Consume alcohol,Secundaria,Islam
+54,Infancia-Adolescencia,Hombre,Ha cometido Crimen sexual,Clase baja,Enfermedad mental,Consume alcohol,Analfabeto,Judaismo
+55,Infancia-Adolescencia,Hombre,Ha cometido Crimen sexual,Clase baja,Enfermedad crónica,Consume tabaco,Secundaria,Ateismo
+56,Infancia-Adolescencia,Mujer,Ha cometido Crimen violento,Clase baja,No tiene ninguna enfermedad,Consume drogas duras,Secundaria,Hinduismo
+57,Infancia-Adolescencia,Hombre,Ha cometido Crimen sexual,Clase media,Enfermedad crónica,No consume drogas,Analfabeto,Hinduismo
+58,Infancia-Adolescencia,Mujer,Ha cometido Crimen grave,Clase baja,Enfermedad crónica,Consume cannabis,Secundaria,Islam
+59,Infancia-Adolescencia,Mujer,Ha cometido Crimen violento,Clase media,No tiene ninguna enfermedad,Consume cannabis,Analfabeto,Budismo
+60,Infancia-Adolescencia,Hombre,Ha cometido Crimen menor,Clase baja,Enfermedad terminal,Consume alcohol,Analfabeto,Hinduismo
+61,Infancia-Adolescencia,Mujer,No ha cometido ningún crimen,Clase media,Enfermedad crónica,Consume cannabis,Primaria,Hinduismo
+62,Infancia-Adolescencia,Mujer,Ha cometido Crimen grave,Clase media,Enfermedad terminal,Consume tabaco,Primaria,Judaismo
+63,Infancia-Adolescencia,Hombre,Ha cometido Crimen grave,Clase baja,Enfermedad crónica,Consume alcohol,Primaria,Judaismo
+64,Infancia-Adolescencia,Hombre,Ha cometido Crimen grave,Clase media,No tiene ninguna enfermedad,Consume drogas duras,Primaria,Ateismo
+65,Infancia-Adolescencia,Mujer,Ha cometido Crimen violento,Clase media,No tiene ninguna enfermedad,Consume alcohol,Analfabeto,Judaismo
+66,Infancia-Adolescencia,Hombre,Ha cometido Crimen sexual,Clase alta,Enfermedad crónica,Consume drogas duras,Primaria,Ateismo
+67,Infancia-Adolescencia,Mujer,Ha cometido Crimen grave,Clase alta,No tiene ninguna enfermedad,Consume cannabis,Primaria,Judaismo
+68,Infancia-Adolescencia,Mujer,Ha cometido Crimen sexual,Clase alta,Enfermedad mental,Consume cannabis,Primaria,Hinduismo
+69,Infancia-Adolescencia,Mujer,Ha cometido Crimen grave,Clase alta,Enfermedad mental,No consume drogas,Analfabeto,Judaismo
+70,Infancia-Adolescencia,Mujer,No ha cometido ningún crimen,Clase baja,Enfermedad degenerativa,Consume drogas duras,Secundaria,Cristianismo
+71,Infancia-Adolescencia,Hombre,Ha cometido Crimen grave,Clase media,Enfermedad crónica,Consume tabaco,Secundaria,Budismo
+72,Infancia-Adolescencia,Mujer,Ha cometido Crimen sexual,Clase alta,Enfermedad degenerativa,Consume tabaco,Primaria,Cristianismo
+73,Infancia-Adolescencia,Mujer,Ha cometido Crimen violento,Clase media,No tiene ninguna enfermedad,Consume drogas duras,Primaria,Judaismo
+74,Infancia-Adolescencia,Hombre,Ha cometido Crimen sexual,Clase alta,No tiene ninguna enfermedad,Consume tabaco,Secundaria,Judaismo
+75,Infancia-Adolescencia,Hombre,Ha cometido Crimen sexual,Clase media,Enfermedad crónica,Consume cocaína,Primaria,Cristianismo
+76,Infancia-Adolescencia,Hombre,No ha cometido ningún crimen,Clase media,Enfermedad crónica,Consume drogas duras,Analfabeto,Ateismo
+77,Infancia-Adolescencia,Mujer,No ha cometido ningún crimen,Clase media,Enfermedad crónica,Consume alcohol,Analfabeto,Ateismo
+78,Infancia-Adolescencia,Hombre,No ha cometido ningún crimen,Clase baja,Enfermedad degenerativa,Consume cannabis,Secundaria,Budismo
+79,Infancia-Adolescencia,Mujer,Ha cometido Crimen menor,Clase alta,Enfermedad degenerativa,No consume drogas,Analfabeto,Hinduismo
+80,Infancia-Adolescencia,Mujer,Ha cometido Crimen sexual,Clase media,No tiene ninguna enfermedad,Consume alcohol,Secundaria,Hinduismo
+81,Infancia-Adolescencia,Mujer,Ha cometido Crimen sexual,Clase alta,Enfermedad mental,Consume alcohol,Secundaria,Hinduismo
+82,Infancia-Adolescencia,Mujer,No ha cometido ningún crimen,Clase baja,Enfermedad degenerativa,Consume drogas duras,Analfabeto,Budismo
+83,Adultez,Hombre,Ha cometido Crimen sexual,Clase alta,No tiene ninguna enfermedad,Consume tabaco,Grado Universitario,Islam
+84,Adultez,Mujer,No ha cometido ningún crimen,Clase baja,No tiene ninguna enfermedad,Consume tabaco,Secundaria,Islam
+85,Adultez,Hombre,Ha cometido Crimen menor,Clase media,Enfermedad terminal,Consume drogas duras,Analfabeto,Budismo
+86,Adultez,Hombre,Ha cometido Crimen grave,Clase baja,Enfermedad mental,Consume tabaco,Analfabeto,Islam
+87,Adultez,Hombre,Ha cometido Crimen sexual,Clase alta,Enfermedad terminal,No consume drogas,Grado Técnico o Vocacional,Cristianismo
+88,Adultez,Mujer,Ha cometido Crimen violento,Clase baja,Enfermedad mental,Consume tabaco,Grado Universitario,Judaismo
+89,Adultez,Hombre,Ha cometido Crimen grave,Clase baja,Enfermedad mental,No consume drogas,Secundaria,Ateismo
+90,Adultez,Hombre,Ha cometido Crimen sexual,Clase media,No tiene ninguna enfermedad,Consume alcohol,Grado Técnico o Vocacional,Ateismo
+91,Adultez,Mujer,Ha cometido Crimen violento,Clase baja,No tiene ninguna enfermedad,Consume drogas duras,Grado Universitario,Judaismo
+92,Adultez,Mujer,No ha cometido ningún crimen,Clase baja,Enfermedad mental,No consume drogas,Grado Técnico o Vocacional,Islam
+93,Adultez,Mujer,No ha cometido ningún crimen,Clase alta,Enfermedad mental,Consume cannabis,Grado Universitario,Budismo
+94,Adultez,Hombre,No ha cometido ningún crimen,Clase baja,Enfermedad mental,Consume cannabis,Grado Técnico o Vocacional,Cristianismo
+95,Adultez,Hombre,Ha cometido Crimen violento,Clase media,Enfermedad mental,Consume cannabis,Grado Técnico o Vocacional,Cristianismo
+96,Adultez,Mujer,No ha cometido ningún crimen,Clase alta,Enfermedad crónica,Consume cocaína,Secundaria,Hinduismo
+97,Adultez,Hombre,Ha cometido Crimen grave,Clase media,Enfermedad mental,Consume alcohol,Primaria,Judaismo
+98,Adultez,Hombre,Ha cometido Crimen violento,Clase alta,Enfermedad crónica,Consume alcohol,Grado Técnico o Vocacional,Ateismo
+99,Adultez,Hombre,Ha cometido Crimen sexual,Clase media,Enfermedad crónica,Consume cocaína,Analfabeto,Budismo
+100,Adultez,Mujer,No ha cometido ningún crimen,Clase baja,No tiene ninguna enfermedad,Consume drogas duras,Grado Técnico o Vocacional,Hinduismo
+101,Adultez,Hombre,Ha cometido Crimen sexual,Clase media,Enfermedad degenerativa,Consume cannabis,Primaria,Islam
+102,Adultez,Hombre,Ha cometido Crimen sexual,Clase media,Enfermedad crónica,No consume drogas,Analfabeto,Budismo
+103,Adultez,Mujer,Ha cometido Crimen sexual,Clase baja,Enfermedad mental,Consume tabaco,Primaria,Hinduismo
+104,Adultez,Hombre,Ha cometido Crimen violento,Clase media,Enfermedad mental,Consume alcohol,Grado Técnico o Vocacional,Hinduismo
+105,Adultez,Mujer,Ha cometido Crimen menor,Clase media,Enfermedad degenerativa,Consume drogas duras,Primaria,Budismo
+106,Adultez,Mujer,Ha cometido Crimen menor,Clase media,No tiene ninguna enfermedad,Consume cocaína,Analfabeto,Budismo
+107,Adultez,Hombre,Ha cometido Crimen violento,Clase alta,Enfermedad mental,No consume drogas,Primaria,Islam
+108,Adultez,Hombre,Ha cometido Crimen grave,Clase media,Enfermedad crónica,Consume cocaína,Grado Universitario,Hinduismo
+109,Adultez,Hombre,Ha cometido Crimen grave,Clase media,Enfermedad terminal,Consume drogas duras,Primaria,Judaismo
+110,Adultez,Mujer,Ha cometido Crimen grave,Clase media,Enfermedad degenerativa,Consume cocaína,Analfabeto,Judaismo
+111,Adultez,Hombre,Ha cometido Crimen sexual,Clase baja,Enfermedad terminal,No consume drogas,Grado Universitario,Cristianismo
+112,Adultez,Mujer,Ha cometido Crimen violento,Clase baja,No tiene ninguna enfermedad,Consume alcohol,Secundaria,Budismo
+113,Adultez,Mujer,No ha cometido ningún crimen,Clase media,Enfermedad crónica,Consume tabaco,Primaria,Budismo
+114,Adultez,Mujer,Ha cometido Crimen sexual,Clase media,Enfermedad mental,Consume cocaína,Primaria,Cristianismo
+115,Adultez,Mujer,Ha cometido Crimen menor,Clase alta,Enfermedad mental,Consume alcohol,Secundaria,Budismo
+116,Adultez,Hombre,Ha cometido Crimen grave,Clase alta,Enfermedad mental,No consume drogas,Primaria,Cristianismo
+117,Adultez,Hombre,Ha cometido Crimen grave,Clase alta,Enfermedad crónica,No consume drogas,Primaria,Islam
+118,Adultez,Hombre,Ha cometido Crimen menor,Clase alta,Enfermedad crónica,Consume drogas duras,Analfabeto,Judaismo
+119,Adultez,Hombre,Ha cometido Crimen menor,Clase alta,Enfermedad mental,Consume cocaína,Secundaria,Islam
+120,Adultez,Mujer,Ha cometido Crimen violento,Clase alta,Enfermedad degenerativa,Consume cannabis,Analfabeto,Cristianismo
+121,Adultez,Mujer,Ha cometido Crimen sexual,Clase media,Enfermedad crónica,Consume drogas duras,Secundaria,Hinduismo
+122,Adultez,Mujer,Ha cometido Crimen grave,Clase alta,No tiene ninguna enfermedad,Consume alcohol,Grado Técnico o Vocacional,Judaismo
+123,Adultez,Hombre,Ha cometido Crimen grave,Clase baja,No tiene ninguna enfermedad,Consume alcohol,Primaria,Cristianismo
+124,Adultez,Mujer,No ha cometido ningún crimen,Clase alta,Enfermedad crónica,Consume drogas duras,Grado Técnico o Vocacional,Ateismo
+125,Adultez,Mujer,Ha cometido Crimen grave,Clase media,Enfermedad degenerativa,Consume alcohol,Primaria,Budismo
+126,Adultez,Hombre,No ha cometido ningún crimen,Clase baja,No tiene ninguna enfermedad,Consume cocaína,Grado Universitario,Islam
+127,Adultez,Mujer,Ha cometido Crimen menor,Clase media,Enfermedad mental,Consume drogas duras,Analfabeto,Judaismo
+128,Adultez,Hombre,Ha cometido Crimen violento,Clase baja,Enfermedad terminal,Consume cocaína,Analfabeto,Budismo
+129,Adultez,Hombre,Ha cometido Crimen menor,Clase alta,Enfermedad terminal,No consume drogas,Secundaria,Ateismo
+130,Adultez,Mujer,Ha cometido Crimen sexual,Clase media,Enfermedad degenerativa,Consume cannabis,Grado Técnico o Vocacional,Judaismo
+131,Adultez,Hombre,No ha cometido ningún crimen,Clase baja,Enfermedad mental,No consume drogas,Primaria,Judaismo
+132,Adultez,Mujer,Ha cometido Crimen menor,Clase baja,Enfermedad degenerativa,Consume alcohol,Primaria,Hinduismo
+133,Adultez,Mujer,Ha cometido Crimen menor,Clase media,Enfermedad terminal,Consume tabaco,Grado Universitario,Budismo
+134,Adultez,Hombre,No ha cometido ningún crimen,Clase baja,Enfermedad mental,Consume drogas duras,Analfabeto,Cristianismo
+135,Adultez,Mujer,No ha cometido ningún crimen,Clase media,Enfermedad crónica,Consume tabaco,Primaria,Cristianismo
+136,Adultez,Mujer,Ha cometido Crimen sexual,Clase alta,Enfermedad mental,Consume cocaína,Grado Técnico o Vocacional,Ateismo
+137,Adultez,Mujer,Ha cometido Crimen menor,Clase baja,Enfermedad degenerativa,Consume cocaína,Primaria,Ateismo
+138,Adultez,Hombre,Ha cometido Crimen menor,Clase alta,Enfermedad crónica,Consume drogas duras,Analfabeto,Hinduismo
+139,Adultez,Hombre,Ha cometido Crimen sexual,Clase media,Enfermedad terminal,Consume cannabis,Grado Universitario,Ateismo
+140,Adultez,Mujer,Ha cometido Crimen grave,Clase media,Enfermedad crónica,Consume tabaco,Grado Técnico o Vocacional,Budismo
+141,Adultez,Hombre,No ha cometido ningún crimen,Clase alta,Enfermedad mental,No consume drogas,Grado Técnico o Vocacional,Cristianismo
+142,Adultez,Mujer,No ha cometido ningún crimen,Clase alta,Enfermedad mental,No consume drogas,Primaria,Ateismo
+143,Adultez,Hombre,Ha cometido Crimen violento,Clase alta,Enfermedad terminal,Consume alcohol,Analfabeto,Budismo
+144,Adultez,Hombre,Ha cometido Crimen grave,Clase baja,Enfermedad mental,Consume cocaína,Grado Técnico o Vocacional,Ateismo
+145,Adultez,Hombre,Ha cometido Crimen violento,Clase baja,Enfermedad mental,Consume cannabis,Primaria,Budismo
+146,Adultez,Hombre,Ha cometido Crimen menor,Clase baja,Enfermedad crónica,Consume drogas duras,Grado Técnico o Vocacional,Hinduismo
+147,Adultez,Mujer,Ha cometido Crimen violento,Clase media,Enfermedad terminal,Consume cannabis,Grado Universitario,Cristianismo
+148,Adultez,Hombre,No ha cometido ningún crimen,Clase alta,Enfermedad crónica,No consume drogas,Analfabeto,Cristianismo
+149,Adultez,Mujer,No ha cometido ningún crimen,Clase alta,Enfermedad terminal,Consume cocaína,Grado Universitario,Ateismo
+150,Adultez,Hombre,No ha cometido ningún crimen,Clase alta,Enfermedad mental,Consume drogas duras,Secundaria,Hinduismo
+151,Adultez,Mujer,Ha cometido Crimen violento,Clase media,Enfermedad degenerativa,Consume cocaína,Grado Técnico o Vocacional,Cristianismo
+152,Adultez,Mujer,Ha cometido Crimen sexual,Clase alta,No tiene ninguna enfermedad,Consume cannabis,Secundaria,Judaismo
+153,Adultez,Mujer,No ha cometido ningún crimen,Clase media,Enfermedad crónica,Consume cocaína,Primaria,Ateismo
+154,Adultez,Mujer,No ha cometido ningún crimen,Clase alta,Enfermedad crónica,No consume drogas,Secundaria,Judaismo
+155,Adultez,Mujer,Ha cometido Crimen violento,Clase media,Enfermedad degenerativa,Consume drogas duras,Secundaria,Judaismo
+156,Adultez,Hombre,Ha cometido Crimen menor,Clase alta,Enfermedad degenerativa,Consume alcohol,Analfabeto,Ateismo
+157,Adultez,Hombre,Ha cometido Crimen sexual,Clase media,Enfermedad degenerativa,Consume cannabis,Secundaria,Ateismo
+158,Adultez,Mujer,Ha cometido Crimen violento,Clase alta,Enfermedad crónica,Consume tabaco,Grado Universitario,Islam
+159,Adultez,Hombre,No ha cometido ningún crimen,Clase baja,Enfermedad mental,Consume alcohol,Secundaria,Judaismo
+160,Adultez,Mujer,Ha cometido Crimen grave,Clase alta,Enfermedad mental,Consume cocaína,Grado Técnico o Vocacional,Budismo
+161,Adultez,Mujer,Ha cometido Crimen sexual,Clase media,Enfermedad degenerativa,Consume cocaína,Grado Universitario,Cristianismo
+162,Adultez,Mujer,Ha cometido Crimen menor,Clase alta,Enfermedad degenerativa,No consume drogas,Analfabeto,Hinduismo
+163,Adultez,Mujer,Ha cometido Crimen sexual,Clase media,Enfermedad terminal,No consume drogas,Primaria,Hinduismo
+164,Adultez,Hombre,Ha cometido Crimen grave,Clase baja,Enfermedad degenerativa,Consume tabaco,Grado Técnico o Vocacional,Hinduismo
+165,Adultez,Mujer,Ha cometido Crimen violento,Clase media,No tiene ninguna enfermedad,Consume alcohol,Grado Universitario,Ateismo
+166,Ancianidad,Hombre,Ha cometido Crimen sexual,Clase alta,Enfermedad terminal,Consume alcohol,Analfabeto,Ateismo
+167,Ancianidad,Hombre,Ha cometido Crimen violento,Clase baja,Enfermedad degenerativa,Consume drogas duras,Grado Universitario,Cristianismo
+168,Ancianidad,Hombre,No ha cometido ningún crimen,Clase baja,Enfermedad degenerativa,No consume drogas,Analfabeto,Islam
+169,Ancianidad,Mujer,No ha cometido ningún crimen,Clase media,Enfermedad mental,Consume tabaco,Grado Universitario,Judaismo
+170,Ancianidad,Mujer,No ha cometido ningún crimen,Clase media,Enfermedad terminal,Consume alcohol,Analfabeto,Cristianismo
+171,Ancianidad,Hombre,No ha cometido ningún crimen,Clase baja,No tiene ninguna enfermedad,Consume cocaína,Analfabeto,Hinduismo
+172,Ancianidad,Mujer,Ha cometido Crimen violento,Clase media,Enfermedad crónica,Consume drogas duras,Secundaria,Ateismo
+173,Ancianidad,Mujer,Ha cometido Crimen menor,Clase baja,Enfermedad mental,Consume cocaína,Analfabeto,Cristianismo
+174,Ancianidad,Hombre,Ha cometido Crimen grave,Clase alta,Enfermedad terminal,Consume cocaína,Grado Técnico o Vocacional,Ateismo
+175,Ancianidad,Hombre,No ha cometido ningún crimen,Clase media,Enfermedad crónica,Consume tabaco,Analfabeto,Islam
+176,Ancianidad,Hombre,No ha cometido ningún crimen,Clase baja,Enfermedad terminal,Consume alcohol,Primaria,Ateismo
+177,Ancianidad,Hombre,No ha cometido ningún crimen,Clase baja,Enfermedad mental,Consume cocaína,Grado Universitario,Hinduismo
+178,Ancianidad,Mujer,Ha cometido Crimen violento,Clase alta,No tiene ninguna enfermedad,Consume cannabis,Secundaria,Judaismo
+179,Ancianidad,Hombre,Ha cometido Crimen menor,Clase media,Enfermedad degenerativa,Consume drogas duras,Secundaria,Ateismo
+180,Ancianidad,Hombre,Ha cometido Crimen menor,Clase baja,Enfermedad terminal,Consume drogas duras,Secundaria,Hinduismo
+181,Ancianidad,Mujer,Ha cometido Crimen menor,Clase media,No tiene ninguna enfermedad,Consume drogas duras,Secundaria,Budismo
+182,Ancianidad,Mujer,No ha cometido ningún crimen,Clase baja,Enfermedad crónica,Consume alcohol,Grado Universitario,Judaismo
+183,Ancianidad,Hombre,Ha cometido Crimen grave,Clase alta,Enfermedad crónica,Consume cannabis,Analfabeto,Ateismo
+184,Ancianidad,Hombre,Ha cometido Crimen grave,Clase baja,Enfermedad terminal,No consume drogas,Analfabeto,Budismo
+185,Ancianidad,Mujer,No ha cometido ningún crimen,Clase alta,No tiene ninguna enfermedad,Consume cannabis,Grado Técnico o Vocacional,Hinduismo
+186,Ancianidad,Hombre,Ha cometido Crimen grave,Clase alta,Enfermedad mental,Consume drogas duras,Secundaria,Judaismo
+187,Ancianidad,Hombre,Ha cometido Crimen grave,Clase alta,Enfermedad degenerativa,Consume tabaco,Grado Universitario,Hinduismo
+188,Ancianidad,Hombre,Ha cometido Crimen menor,Clase baja,No tiene ninguna enfermedad,Consume alcohol,Secundaria,Hinduismo
+189,Ancianidad,Hombre,No ha cometido ningún crimen,Clase baja,No tiene ninguna enfermedad,Consume cannabis,Grado Universitario,Islam
+190,Ancianidad,Mujer,No ha cometido ningún crimen,Clase alta,Enfermedad crónica,Consume drogas duras,Grado Universitario,Ateismo
+191,Ancianidad,Hombre,Ha cometido Crimen grave,Clase media,Enfermedad degenerativa,Consume alcohol,Primaria,Judaismo
+192,Ancianidad,Hombre,No ha cometido ningún crimen,Clase baja,Enfermedad degenerativa,Consume alcohol,Secundaria,Budismo
+193,Ancianidad,Hombre,No ha cometido ningún crimen,Clase alta,Enfermedad crónica,Consume alcohol,Grado Universitario,Budismo
+194,Ancianidad,Mujer,Ha cometido Crimen sexual,Clase baja,Enfermedad degenerativa,Consume cocaína,Grado Técnico o Vocacional,Ateismo
+195,Ancianidad,Hombre,Ha cometido Crimen violento,Clase alta,No tiene ninguna enfermedad,Consume alcohol,Analfabeto,Cristianismo
+196,Ancianidad,Mujer,Ha cometido Crimen sexual,Clase baja,Enfermedad mental,Consume drogas duras,Primaria,Islam
+197,Ancianidad,Mujer,Ha cometido Crimen menor,Clase media,No tiene ninguna enfermedad,Consume alcohol,Grado Técnico o Vocacional,Hinduismo
+198,Ancianidad,Mujer,Ha cometido Crimen menor,Clase baja,Enfermedad crónica,Consume alcohol,Grado Universitario,Ateismo
+199,Ancianidad,Mujer,Ha cometido Crimen sexual,Clase media,Enfermedad terminal,Consume alcohol,Analfabeto,Ateismo
+200,Ancianidad,Mujer,Ha cometido Crimen menor,Clase baja,No tiene ninguna enfermedad,Consume tabaco,Grado Universitario,Ateismo
+201,Ancianidad,Mujer,Ha cometido Crimen violento,Clase media,No tiene ninguna enfermedad,Consume tabaco,Grado Universitario,Cristianismo
+202,Ancianidad,Mujer,Ha cometido Crimen violento,Clase alta,Enfermedad degenerativa,No consume drogas,Analfabeto,Budismo
+203,Ancianidad,Mujer,Ha cometido Crimen sexual,Clase baja,Enfermedad degenerativa,Consume drogas duras,Primaria,Ateismo
+204,Ancianidad,Hombre,Ha cometido Crimen sexual,Clase baja,Enfermedad mental,Consume alcohol,Primaria,Budismo
+205,Ancianidad,Hombre,Ha cometido Crimen menor,Clase baja,Enfermedad mental,Consume drogas duras,Grado Universitario,Islam
+206,Ancianidad,Hombre,Ha cometido Crimen grave,Clase baja,Enfermedad degenerativa,Consume drogas duras,Secundaria,Cristianismo
+207,Ancianidad,Hombre,Ha cometido Crimen menor,Clase alta,Enfermedad crónica,Consume drogas duras,Grado Universitario,Ateismo
+208,Ancianidad,Mujer,Ha cometido Crimen grave,Clase baja,Enfermedad terminal,Consume cannabis,Grado Técnico o Vocacional,Hinduismo
+209,Ancianidad,Hombre,No ha cometido ningún crimen,Clase media,No tiene ninguna enfermedad,No consume drogas,Grado Universitario,Judaismo
+210,Ancianidad,Hombre,Ha cometido Crimen menor,Clase media,No tiene ninguna enfermedad,Consume alcohol,Secundaria,Budismo
+211,Ancianidad,Mujer,Ha cometido Crimen violento,Clase media,No tiene ninguna enfermedad,Consume alcohol,Grado Universitario,Islam
+212,Ancianidad,Mujer,No ha cometido ningún crimen,Clase media,Enfermedad crónica,Consume alcohol,Grado Técnico o Vocacional,Islam
+213,Ancianidad,Mujer,Ha cometido Crimen menor,Clase media,Enfermedad degenerativa,Consume cocaína,Analfabeto,Ateismo
+214,Ancianidad,Mujer,Ha cometido Crimen violento,Clase baja,Enfermedad mental,Consume tabaco,Secundaria,Judaismo
+215,Ancianidad,Mujer,No ha cometido ningún crimen,Clase alta,Enfermedad mental,No consume drogas,Grado Técnico o Vocacional,Judaismo
+216,Ancianidad,Mujer,Ha cometido Crimen violento,Clase baja,Enfermedad terminal,Consume drogas duras,Analfabeto,Ateismo
+217,Ancianidad,Mujer,Ha cometido Crimen sexual,Clase media,Enfermedad crónica,Consume cannabis,Grado Universitario,Judaismo
+218,Ancianidad,Mujer,Ha cometido Crimen violento,Clase media,Enfermedad terminal,Consume cannabis,Analfabeto,Budismo
+219,Ancianidad,Mujer,Ha cometido Crimen sexual,Clase baja,No tiene ninguna enfermedad,No consume drogas,Primaria,Islam
+220,Ancianidad,Hombre,Ha cometido Crimen menor,Clase baja,No tiene ninguna enfermedad,Consume cannabis,Grado Universitario,Islam
+221,Ancianidad,Hombre,Ha cometido Crimen menor,Clase baja,Enfermedad terminal,Consume drogas duras,Grado Universitario,Hinduismo
+222,Ancianidad,Hombre,Ha cometido Crimen grave,Clase media,Enfermedad crónica,Consume drogas duras,Primaria,Judaismo
+223,Ancianidad,Mujer,Ha cometido Crimen violento,Clase baja,No tiene ninguna enfermedad,Consume drogas duras,Secundaria,Islam
+224,Ancianidad,Hombre,No ha cometido ningún crimen,Clase media,Enfermedad mental,Consume tabaco,Secundaria,Judaismo
+225,Ancianidad,Hombre,Ha cometido Crimen violento,Clase media,No tiene ninguna enfermedad,Consume drogas duras,Grado Técnico o Vocacional,Hinduismo
+226,Ancianidad,Mujer,Ha cometido Crimen violento,Clase media,Enfermedad degenerativa,Consume tabaco,Grado Universitario,Cristianismo
+227,Ancianidad,Mujer,No ha cometido ningún crimen,Clase alta,Enfermedad mental,Consume drogas duras,Analfabeto,Ateismo
+228,Ancianidad,Hombre,Ha cometido Crimen sexual,Clase media,Enfermedad terminal,Consume cannabis,Secundaria,Budismo
+229,Ancianidad,Hombre,Ha cometido Crimen sexual,Clase alta,Enfermedad crónica,Consume alcohol,Primaria,Ateismo
+230,Ancianidad,Mujer,Ha cometido Crimen grave,Clase alta,Enfermedad mental,Consume drogas duras,Primaria,Islam
+231,Ancianidad,Hombre,Ha cometido Crimen grave,Clase media,Enfermedad degenerativa,Consume drogas duras,Grado Técnico o Vocacional,Ateismo
+232,Ancianidad,Mujer,Ha cometido Crimen grave,Clase media,No tiene ninguna enfermedad,Consume cannabis,Primaria,Hinduismo
+233,Ancianidad,Mujer,Ha cometido Crimen violento,Clase baja,Enfermedad degenerativa,No consume drogas,Analfabeto,Islam
+234,Ancianidad,Mujer,Ha cometido Crimen violento,Clase media,Enfermedad degenerativa,Consume alcohol,Grado Técnico o Vocacional,Hinduismo
+235,Ancianidad,Mujer,Ha cometido Crimen violento,Clase baja,No tiene ninguna enfermedad,Consume alcohol,Secundaria,Ateismo
+236,Ancianidad,Mujer,Ha cometido Crimen grave,Clase baja,No tiene ninguna enfermedad,Consume alcohol,Grado Universitario,Islam
+237,Ancianidad,Hombre,Ha cometido Crimen grave,Clase alta,Enfermedad mental,Consume cocaína,Grado Técnico o Vocacional,Cristianismo
+238,Ancianidad,Hombre,Ha cometido Crimen menor,Clase baja,Enfermedad terminal,No consume drogas,Analfabeto,Judaismo
+239,Ancianidad,Hombre,Ha cometido Crimen sexual,Clase alta,Enfermedad degenerativa,Consume alcohol,Grado Universitario,Budismo
+240,Ancianidad,Hombre,Ha cometido Crimen menor,Clase baja,No tiene ninguna enfermedad,Consume alcohol,Primaria,Judaismo
+241,Ancianidad,Hombre,Ha cometido Crimen menor,Clase baja,Enfermedad mental,Consume cocaína,Primaria,Budismo
+242,Ancianidad,Hombre,No ha cometido ningún crimen,Clase alta,No tiene ninguna enfermedad,Consume drogas duras,Primaria,Ateismo
+243,Ancianidad,Mujer,Ha cometido Crimen menor,Clase media,Enfermedad terminal,Consume alcohol,Primaria,Islam
+244,Ancianidad,Mujer,No ha cometido ningún crimen,Clase baja,Enfermedad degenerativa,Consume cocaína,Grado Universitario,Judaismo
+245,Ancianidad,Hombre,Ha cometido Crimen menor,Clase baja,Enfermedad mental,Consume drogas duras,Primaria,Judaismo
+246,Ancianidad,Mujer,Ha cometido Crimen violento,Clase media,Enfermedad mental,Consume tabaco,Primaria,Hinduismo
+247,Ancianidad,Mujer,No ha cometido ningún crimen,Clase media,Enfermedad degenerativa,Consume alcohol,Grado Universitario,Budismo
+248,Ancianidad,Mujer,Ha cometido Crimen sexual,Clase baja,Enfermedad terminal,Consume drogas duras,Grado Técnico o Vocacional,Islam
+249,Adultez,Mujer,No ha cometido ningún crimen,Clase baja,No tiene ninguna enfermedad,Consume cocaína,Analfabeto,Hinduismo
