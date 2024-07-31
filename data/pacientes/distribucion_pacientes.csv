@@ -1,0 +1,37 @@
+Distribución de los 250 pacientes seleccionados:
+                                Edad   Sexo  Crimen  Clase social  Enfermedad  Consumo drogas  Educacion  Religion
+Menor de edad                   84.0    0.0     0.0           0.0         0.0             0.0        0.0       0.0
+Adultez                         83.0    0.0     0.0           0.0         0.0             0.0        0.0       0.0
+Ancianidad                      83.0    0.0     0.0           0.0         0.0             0.0        0.0       0.0
+Mujer                            0.0  131.0     0.0           0.0         0.0             0.0        0.0       0.0
+Hombre                           0.0  119.0     0.0           0.0         0.0             0.0        0.0       0.0
+No ha cometido ningún crimen     0.0    0.0    50.0           0.0         0.0             0.0        0.0       0.0
+Ha cometido Crimen sexual        0.0    0.0    34.0           0.0         0.0             0.0        0.0       0.0
+Ha cometido Crimen grave         0.0    0.0    43.0           0.0         0.0             0.0        0.0       0.0
+Ha cometido Crimen menor         0.0    0.0    61.0           0.0         0.0             0.0        0.0       0.0
+Ha cometido Crimen violento      0.0    0.0    62.0           0.0         0.0             0.0        0.0       0.0
+Clase media                      0.0    0.0     0.0          83.0         0.0             0.0        0.0       0.0
+Clase baja                       0.0    0.0     0.0          82.0         0.0             0.0        0.0       0.0
+Clase alta                       0.0    0.0     0.0          85.0         0.0             0.0        0.0       0.0
+No tiene ninguna enfermedad      0.0    0.0     0.0           0.0        40.0             0.0        0.0       0.0
+Enfermedad crónica               0.0    0.0     0.0           0.0        57.0             0.0        0.0       0.0
+Enfermedad degenerativa          0.0    0.0     0.0           0.0        55.0             0.0        0.0       0.0
+Enfermedad terminal              0.0    0.0     0.0           0.0        41.0             0.0        0.0       0.0
+Enfermedad mental                0.0    0.0     0.0           0.0        57.0             0.0        0.0       0.0
+Consume alcohol                  0.0    0.0     0.0           0.0         0.0            53.0        0.0       0.0
+No consume drogas                0.0    0.0     0.0           0.0         0.0            52.0        0.0       0.0
+Consume tabaco                   0.0    0.0     0.0           0.0         0.0            30.0        0.0       0.0
+Consume drogas duras             0.0    0.0     0.0           0.0         0.0            41.0        0.0       0.0
+Consume cocaína                  0.0    0.0     0.0           0.0         0.0            37.0        0.0       0.0
+Consume cannabis                 0.0    0.0     0.0           0.0         0.0            37.0        0.0       0.0
+Secundaria                       0.0    0.0     0.0           0.0         0.0             0.0       63.0       0.0
+Sin estudios                     0.0    0.0     0.0           0.0         0.0             0.0       57.0       0.0
+Primaria                         0.0    0.0     0.0           0.0         0.0             0.0       60.0       0.0
+Grado Universitario y superior   0.0    0.0     0.0           0.0         0.0             0.0       31.0       0.0
+Grado Técnico                    0.0    0.0     0.0           0.0         0.0             0.0       39.0       0.0
+Judaismo                         0.0    0.0     0.0           0.0         0.0             0.0        0.0      40.0
+Cristianismo                     0.0    0.0     0.0           0.0         0.0             0.0        0.0      47.0
+Ateismo                          0.0    0.0     0.0           0.0         0.0             0.0        0.0      36.0
+Budismo                          0.0    0.0     0.0           0.0         0.0             0.0        0.0      34.0
+Hinduismo                        0.0    0.0     0.0           0.0         0.0             0.0        0.0      44.0
+Islam                            0.0    0.0     0.0           0.0         0.0             0.0        0.0      49.0
